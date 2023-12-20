@@ -7,14 +7,14 @@
 - **[Image & Drawings](#image--drawings)**
 - **[AI Chat & Assistant](#ai-chat--assistant)**
 - **[Writting & Web SEO](#writting--web-seo)**
-- **[Image Editing](#image_editing)** 
-- **[Video Generators](#video_generators)** 
-- **[Audio Editing](#audio_editing)**
-- **[Music Сreation](#music_creation)**
-- **[Voice Reading](#voice_reading)**
-- **[Logo Creation](#logo_creation)**
-- **[Storytelling Generator](#storytelling_generator)**
-- **[Video Edition](#video_edition)**
-- **[Assistant Code](#assistant-сode)**
+- **[Image Editing](#image-editing)** 
+- **[Video Generators](#video-generators)** 
+- **[Audio Editing](#audio-editing)**
+- **[Music Сreation](#music-creation)**
+- **[Voice Reading](#voice-reading)**
+- **[Logo Creation](#logo-creation)**
+- **[Storytelling Generators](#storytelling-generator)**
+- **[Video Edition](#video-edition)**
+- **[Code Assistants](#code-assistant)**
 
 
