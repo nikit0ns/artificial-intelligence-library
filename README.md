@@ -10,7 +10,7 @@
 - **[Image Editing](#image-editing)** 
 - **[Video Generators](#video-generators)** 
 - **[Audio Editing](#audio-editing)**
-- **[Music Сreation](#music-creation)**
+- **[Music Creation](#music_creation)**
 - **[Voice Reading](#voice-reading)**
 - **[Logo Creation](#logo-creation)**
 - **[Storytelling Generators](#storytelling-generator)**
