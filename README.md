@@ -5,16 +5,27 @@
 ## Contents
 
 - **[Image & Drawings](#image--drawings)**
-- **[AI Chat & Assistants](#ai-chat--assistant)**
+- **[AI Chat & Assistants](#ai-chat--assistants)**
 - **[Writing & Web SEO](#writing--web-seo)**
 - **[Image Editing](#image-editing)** 
 - **[Video Generators](#video-generators)** 
 - **[Audio Editing](#audio-editing)**
-- **[Music Creation](#music_creation)**
+- **[Music Creation](#music-creation)**
 - **[Voice Reading](#voice-reading)**
 - **[Logo Creation](#logo-creation)**
-- **[Storytelling Generators](#storytelling-generator)**
+- **[Storytelling Generators](#storytelling-generators)**
 - **[Video Edition](#video-edition)**
-- **[Code Assistants](#code-assistant)**
+- **[Code Assistants](#code-assistants)**
 
-
+## Image & Drawings
+## AI Chat & Assistants
+## Writing & Web SEO
+## Image Editing
+## Video Generators
+## Audio Editing
+## Music Creation
+## Voice Reading
+## Logo Creation
+## Storytelling Generators
+## Video Edition
+## Code Assistants
