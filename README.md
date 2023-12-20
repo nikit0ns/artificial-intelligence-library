@@ -5,7 +5,7 @@
 ## Contents
 
 - **[Image & Drawings](#image--drawings)**
-- **[AI Chat & Assistant](#ai-chat--assistant)**
+- **[AI Chat & Assistants](#ai-chat--assistant)**
 - **[Writting & Web SEO](#writting--web-seo)**
 - **[Image Editing](#image-editing)** 
 - **[Video Generators](#video-generators)** 
