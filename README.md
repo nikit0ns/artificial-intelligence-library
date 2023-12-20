@@ -6,7 +6,7 @@
 
 - **[Image & Drawings](#image--drawings)**
 - **[AI Chat & Assistants](#ai-chat--assistant)**
-- **[Writting & Web SEO](#writting--web-seo)**
+- **[Writing & Web SEO](#writing--web-seo)**
 - **[Image Editing](#image-editing)** 
 - **[Video Generators](#video-generators)** 
 - **[Audio Editing](#audio-editing)**
