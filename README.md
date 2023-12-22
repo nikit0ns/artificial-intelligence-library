@@ -32,7 +32,8 @@
 - **[Deep AI](https://deepai.org/machine-learning-model/text2img) (FREE) - A straightforward, free image generator with lots of modification possibilities.**
 - **[RocketAI](https://rocketai.io/) (FREE) - Create and edit images for your e-commerce sites.**
 - **[Image To Meme](https://imagetomeme.com/) (FREEMIUM) - Transform an image into a timely meme right away.**
-- **[AI Emojis Generator](https://emojis.sh/) (FREE) - Generate your own custom emoji from a prompt.** 
+- **[AI Emojis Generator](https://emojis.sh/) (FREE) - Generate your own custom emoji from a prompt.**
+- **[Artificial Art](https://artificial-art.eu/) (FREE) - An AI-powered artistic images and illustration generator with multiple configurable settings** 
 
 ## AI Chat & Assistants
 ## Writing & Web SEO
