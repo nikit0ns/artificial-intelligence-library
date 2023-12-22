@@ -29,7 +29,8 @@
 - **[Neural Canvas](https://neuralcanvas.io/) (PAID) - This Comic Book generator can be used to create your own Comic Book.** 
 - **[Microsoft Designer](https://designer.microsoft.com/) (FREEMIUM) - AI-generated marketing graphics for polished, high-end visuals.**
 - **[Skybox Lab](https://skybox.blockadelabs.com/) (FREE) - Generate prototypes for panoramic skyboxes and save them with a resolution of 1536×3278 pixels.**
-- **[Deep AI](https://deepai.org/machine-learning-model/text2img) (FREE) - A straightforward, free image generator with lots of modification possibilities.** 
+- **[Deep AI](https://deepai.org/machine-learning-model/text2img) (FREE) - A straightforward, free image generator with lots of modification possibilities.**
+- **[RocketAI](https://rocketai.io/) (FREE) - Create and edit images for your e-commerce sites.** 
 
 ## AI Chat & Assistants
 ## Writing & Web SEO
