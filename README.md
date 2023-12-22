@@ -37,6 +37,7 @@
 - **[Stock AI](https://www.stockai.com/) (FREEMIUM) - Create images for all of your needs quickly and easily.**
 - **[IconLab AI](https://www.iconlabai.com/) (PAID) - An AI generator for the automated and personalized production of application icons.**
 - **[AnimeAI App](https://animeai.app/) (PAID) - Generate anime-style avatars from one of your images, with a variety of custom styles.** 
+- **[Image Mixer](https://huggingface.co/spaces/lambdalabs/image-mixer-demo) (FREE) - Combine different images to create a completely new illustration.** 
 
 ## AI Chat & Assistants
 ## Writing & Web SEO
