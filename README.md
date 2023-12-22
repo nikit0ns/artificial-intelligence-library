@@ -23,6 +23,7 @@
 - **[Adobe Firefly](https://firefly.adobe.com/) (FREE) - A large selection of high-quality templates and tools for editing or generating photos.**
 - **[DALL·E 3](https://openai.com/dall-e-3) (FREE) - A generator of images that works with the ChatGPT interface.**
 - **[Lexica.art](https://lexica.art/) (FREE) - An amazing quantity of ideas to generate high quality images on Stable Diffusion.**
+- **[Bing Image Creator](https://www.bing.com/create) (FREE) - The new AI image generator from Bing that turns words into illustrations.**
   
 ## AI Chat & Assistants
 ## Writing & Web SEO
