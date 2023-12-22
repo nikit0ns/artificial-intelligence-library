@@ -18,6 +18,9 @@
 - **[Code Assistants](#code-assistants)**
 
 ## Image & Drawings
+- **[MidJourney](https://midjourney.com/) (FREEMIUM) - Strong image generation based on text description.**
+
+  
 ## AI Chat & Assistants
 ## Writing & Web SEO
 ## Image Editing
