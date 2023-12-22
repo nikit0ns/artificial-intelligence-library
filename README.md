@@ -35,7 +35,8 @@
 - **[AI Emojis Generator](https://emojis.sh/) (FREE) - Generate your own custom emoji from a prompt.**
 - **[Artificial Art](https://artificial-art.eu/) (FREE) - An AI-powered artistic images and illustration generator with multiple settings.**
 - **[Stock AI](https://www.stockai.com/) (FREEMIUM) - Create images for all of your needs quickly and easily.**
-- **[IconLab AI](https://www.iconlabai.com/) (PAID) - An AI generator for the automated and personalized production of application icons.** 
+- **[IconLab AI](https://www.iconlabai.com/) (PAID) - An AI generator for the automated and personalized production of application icons.**
+- **[AnimeAI App](https://animeai.app/) (PAID) - Generate anime-style avatars from one of your images, with a variety of custom styles.** 
 
 ## AI Chat & Assistants
 ## Writing & Web SEO
