@@ -25,7 +25,8 @@
 - **[Lexica.art](https://lexica.art/) (FREE) - An amazing quantity of ideas to generate high quality images on Stable Diffusion.**
 - **[Bing Image Creator](https://www.bing.com/create) (FREE) - The new AI image generator from Bing that turns words into illustrations.**
 - **[Leonardo AI](https://leonardo.ai/) (FREEMIUM) - AI-generated images, 3D models, and creative material for your projects.**
-- **[Playground AI](https://playgroundai.com/) (FREEMIUM) - An really popular generator that generates pertinent images.** 
+- **[Playground AI](https://playgroundai.com/) (FREEMIUM) - An really popular generator that generates pertinent images.**
+- **[Neural Canvas](https://neuralcanvas.io/) (PAID) - This Comic Book generator can be used to create your own Comic Book.** 
   
 ## AI Chat & Assistants
 ## Writing & Web SEO
