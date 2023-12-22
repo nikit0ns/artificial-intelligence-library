@@ -22,7 +22,7 @@
 - **[Stable Diffusion](https://stablediffusionweb.com/) (FREE) - An open-source, free image generator that supports templates.**
 - **[Adobe Firefly](https://firefly.adobe.com/) (FREE) - A large selection of high-quality templates and tools for editing or generating photos.**
 - **[DALL·E 3](https://openai.com/dall-e-3) (FREE) - A generator of images that works with the ChatGPT interface.**
-- **[Lexica.art](https://lexica.art/) (FREE) - An astounding quantity of recommendations to generate high quality images on Stable Diffusion.**
+- **[Lexica.art](https://lexica.art/) (FREE) - An amazing quantity of recommendations to generate high quality images on Stable Diffusion.**
   
 ## AI Chat & Assistants
 ## Writing & Web SEO
