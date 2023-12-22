@@ -20,6 +20,7 @@
 ## Image & Drawings
 - **[MidJourney](https://midjourney.com/) (FREEMIUM) - Strong image generation based on text description.**
 - **[Stable Diffusion](https://stablediffusionweb.com/) (FREE) - An open-source, free image generator that supports templates.**
+- **[Adobe Firefly](https://firefly.adobe.com/) (FREE) - A large selection of high-quality templates and tools for editing or generating photos.**
   
 ## AI Chat & Assistants
 ## Writing & Web SEO
