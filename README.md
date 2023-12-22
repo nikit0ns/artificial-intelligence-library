@@ -27,7 +27,7 @@
 - **[Leonardo AI](https://leonardo.ai/) (FREEMIUM) - AI-generated images, 3D models, and creative material for your projects.**
 - **[Playground AI](https://playgroundai.com/) (FREEMIUM) - An really popular generator that generates pertinent images.**
 - **[Neural Canvas](https://neuralcanvas.io/) (PAID) - This Comic Book generator can be used to create your own Comic Book.** 
-- **[Microsoft Designer](https://designer.microsoft.com/) (FREEMIUM) - AI-generated marketing graphics for polished, high-end visual communications.** 
+- **[Microsoft Designer](https://designer.microsoft.com/) (FREEMIUM) - AI-generated marketing graphics for polished, high-end visuals.** 
 
 ## AI Chat & Assistants
 ## Writing & Web SEO
