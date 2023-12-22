@@ -19,7 +19,7 @@
 
 ## Image & Drawings
 - **[MidJourney](https://midjourney.com/) (FREEMIUM) - Strong image generation based on text description.**
-
+- **[Stable Diffusion](https://stablediffusionweb.com/) (FREE) - An open-source, free image generator that supports templates.**
   
 ## AI Chat & Assistants
 ## Writing & Web SEO
