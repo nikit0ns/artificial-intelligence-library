@@ -24,6 +24,7 @@
 - **[DALL·E 3](https://openai.com/dall-e-3) (FREE) - A generator of images that works with the ChatGPT interface.**
 - **[Lexica.art](https://lexica.art/) (FREE) - An amazing quantity of ideas to generate high quality images on Stable Diffusion.**
 - **[Bing Image Creator](https://www.bing.com/create) (FREE) - The new AI image generator from Bing that turns words into illustrations.**
+- **[Leonardo AI](https://leonardo.ai/) (FREEMIUM) - AI-generated images, 3D models, and creative material for your projects.**
   
 ## AI Chat & Assistants
 ## Writing & Web SEO
