@@ -47,6 +47,7 @@
 - **[ChatSonic](https://writesonic.com/chat) (FREE) - A chatbot attempting to compete with ChatGPT.**
 - **[Microsoft Copilot](https://copilot.microsoft.com/) (FREE) - A chatbot attempting to compete with ChatGPT.**
 - **[MemoryGPT](https://memorygpt.io/) (FREE) - An AI that is similar to ChatGPT but has a much longer memory.**
+- **[Guanaco AI](https://huggingface.co/JosephusCheung/Guanaco) (FREE) - A multilingual conversational chatbot trained on a 7B parameter model.**
 
 ## Writing & Web SEO
 ## Image Editing
