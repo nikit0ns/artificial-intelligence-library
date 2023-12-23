@@ -45,6 +45,8 @@
 - **[Microsoft Bing](https://www.bing.com/new) (FREE) - ChatGPT AI-powered the new Bing search engine.**
 - **[Poe](https://poe.com/) (PAID) - A Quora-powered AI that can answer any question you may have.**
 - **[ChatSonic](https://writesonic.com/chat) (FREE) - A chatbot attempting to compete with ChatGPT.**
+- **[Microsoft Copilot](https://copilot.microsoft.com/) (FREE) - A chatbot attempting to compete with ChatGPT.**
+- **[MemoryGPT](https://memorygpt.io/) (FREE) - An AI that is similar to ChatGPT but has a much longer memory.**
 
 ## Writing & Web SEO
 ## Image Editing
