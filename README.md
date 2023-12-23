@@ -40,6 +40,8 @@
 - **[Image Mixer](https://huggingface.co/spaces/lambdalabs/image-mixer-demo) (FREE) - Combine different images to create a completely new illustration.** 
 
 ## AI Chat & Assistants
+- **[ChatGPT](https://chat.openai.com/) (FREE) - The most popular conversational assistant in the world.**
+
 ## Writing & Web SEO
 ## Image Editing
 ## Video Generators
