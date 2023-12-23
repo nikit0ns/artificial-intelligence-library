@@ -41,6 +41,7 @@
 
 ## AI Chat & Assistants
 - **[ChatGPT](https://chat.openai.com/) (FREE) - The most popular conversational assistant in the world.**
+- **[Bard AI](https://bard.google.com/) (FREE) - A potential competitor for the AI ChatGPT.**
 
 ## Writing & Web SEO
 ## Image Editing
