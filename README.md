@@ -43,7 +43,7 @@
 - **[ChatGPT](https://chat.openai.com/) (FREE) - The most popular conversational assistant in the world.**
 - **[Bard AI](https://bard.google.com/) (FREE) - A potential competitor for the AI ChatGPT.**
 - **[Microsoft Bing](https://www.bing.com/new) (FREE) - ChatGPT AI-powered the new Bing search engine.**
-- **[Poe](https://poe.com/) (PAID) - A Quora-powered AI that can answer any question you may have..**
+- **[Poe](https://poe.com/) (PAID) - A Quora-powered AI that can answer any question you may have.**
 
 ## Writing & Web SEO
 ## Image Editing
