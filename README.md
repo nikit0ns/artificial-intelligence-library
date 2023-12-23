@@ -48,6 +48,7 @@
 - **[Microsoft Copilot](https://copilot.microsoft.com/) (FREE) - A chatbot attempting to compete with ChatGPT.**
 - **[MemoryGPT](https://memorygpt.io/) (FREE) - An AI that is similar to ChatGPT but has a much longer memory.**
 - **[Guanaco AI](https://huggingface.co/JosephusCheung/Guanaco) (FREE) - A multilingual conversational chatbot trained on a 7B parameter model.**
+- **[StupidGPT](https://stupidgpt.lol/) (FREE) - An AI who is always up for a conversation but speaks nonsense.**
 
 ## Writing & Web SEO
 ## Image Editing
