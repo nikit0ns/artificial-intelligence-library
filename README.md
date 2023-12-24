@@ -52,6 +52,8 @@
 - **[Open Assistant](https://open-assistant.io/) (FREE) - An open source AI chat bot capable of answering a wide range of questions.**
 
 ## Writing & Web SEO
+- **[WriteSonic](https://writesonic.com/) (FREEMIUM) - Writing assistant and text content generator for SEO.**
+
 ## Image Editing
 ## Video Generators
 ## Audio Editing
