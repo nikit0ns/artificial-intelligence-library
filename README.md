@@ -61,6 +61,7 @@
 - **[Better Synonyms AI](https://www.bettersynonyms.com/) (FREE) - A useful AI tool that can find synonyms in under a second.**
 - **[Rephraser.co](https://www.rephraser.co/paraphrasing-tool) (FREEMIUM) - Rephrase your texts without sacrificing their original intent.**
 - **[Newswriter AI](https://newswriter.ai/) (FREE) - An AI assistant for GPT-3 news release authoring.**
+- **[Keywrds AI](https://keywrds.ai/) (PAID) - Find niches and SEO subjects that are relevant to your audience by using AI to produce keywords.**
 
 ## Image Editing
 ## Video Generators
