@@ -60,6 +60,7 @@
 - **[NeuroSpell](https://neurospell.com/) (FREE) - Over 30 languages are supported by the spell and grammar checker.**
 - **[Better Synonyms AI](https://www.bettersynonyms.com/) (FREE) - A useful AI tool that can find synonyms in under a second.**
 - **[Rephraser.co](https://www.rephraser.co/paraphrasing-tool) (FREEMIUM) - Rephrase your texts without sacrificing their original intent.**
+- **[Newswriter AI](https://newswriter.ai/) (FREE) - An AI assistant for GPT-3 news release authoring.**
 
 ## Image Editing
 ## Video Generators
