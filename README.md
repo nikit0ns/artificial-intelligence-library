@@ -55,6 +55,7 @@
 - **[WriteSonic](https://writesonic.com/) (FREEMIUM) - Writing assistant and text content generator for SEO.**
 - **[Grammarly](https://www.grammarly.com/) (FREE) - Create unique, high-quality content.**
 - **[Paraphrasing Tool](https://paraphrasingtool.ai/) (FREEMIUM) - This AI assistant writes and interprets document.**
+- **[WordAI](https://wordai.com/) (PAID) - Rewrite your text to a professional standard.**
 
 ## Image Editing
 ## Video Generators
