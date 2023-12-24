@@ -57,6 +57,7 @@
 - **[Paraphrasing Tool](https://paraphrasingtool.ai/) (FREEMIUM) - This AI assistant writes and interprets document.**
 - **[WordAI](https://wordai.com/) (PAID) - Rewrite your text to a professional standard.**
 - **[HyperWrite AI](https://www.hyperwriteai.com/) (FREE) - Suggest texts based on an idea and assist you in writing without spelling mistakes.**
+- **[NeuroSpell](https://neurospell.com/) (FREE) - Over 30 languages are supported by the spell and grammar checker.**
 
 ## Image Editing
 ## Video Generators
