@@ -58,6 +58,7 @@
 - **[WordAI](https://wordai.com/) (PAID) - Rewrite your text to a professional standard.**
 - **[HyperWrite AI](https://www.hyperwriteai.com/) (FREE) - Suggest texts based on an idea and assist you in writing without spelling mistakes.**
 - **[NeuroSpell](https://neurospell.com/) (FREE) - Over 30 languages are supported by the spell and grammar checker.**
+- **[Better Synonyms AI](https://www.bettersynonyms.com/) (FREE) - A useful AI tool that can find synonyms in under a second.**
 
 ## Image Editing
 ## Video Generators
