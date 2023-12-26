@@ -72,6 +72,7 @@
 - **[Remove BG](https://www.remove.bg/) (FREE) - Remove away of an image's backdrop for free.**
 - **[Inpainting Nvidia](https://www.nvidia.com/research/inpainting/index.html) (FREE) - Using an AI-powered retouching brush, edit your photos.**
 - **[Vectorizer IO](https://www.vectorizer.io/) (PAID) - An AI capable of creating vector graphics from your images.**
+- **[MemeCam AI](https://memecam.ai/) (FREE) - AI generates personalized memes from a selected photo**
 
 
 ## Video Generators
