@@ -66,6 +66,9 @@
 
 
 ## Image Editing
+- **[Adobe Firefly]([https://www.jounce.ai/](https://firefly.adobe.com/)) (FREE) - A large selection of high-quality templates and tools for editing or creating photos.**
+
+
 ## Video Generators
 ## Audio Editing
 ## Music Creation
