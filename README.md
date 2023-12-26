@@ -78,6 +78,7 @@
 - **[Designify](https://www.designify.com/) (FREE) - A strong image editor that makes creating professional graphics simple.**
 - **[Barbie Filter Online](https://barbiefilter.online/) (FREEMIUM) - Use a filter to easily convert yourself into a genuine Barbie in your images.**
 - **[Vector to 3D](https://www.meimu.design/vector-to-3d/) (FREEMIUM) - A program that generates 3D effects based on a vector image.**
+- **[Misgif](https://misgif.app/) (FREE) - Faceswap, an AI technology, allows you to replace a character's face in a GIF with your own.**
 
 
 ## Video Generators
