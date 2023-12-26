@@ -76,7 +76,7 @@
 - **[Nostalgia Photo](https://www.nostalgia.photo/) (PAID) - An AI  may drastically improve the quality of your photo watches.**
 - **[Backgrounds Blur](https://magicstudio.com/backgroundblur/) (FREE) - Upload a picture and the AI will blur your backdrop.**
 - **[Designify](https://www.designify.com/) (FREE) - A strong image editor that makes creating professional graphics simple.**
-- **[Barbie Filter Online]([https://www.designify.com/](https://barbiefilter.online/)) (FREEMIUM) - Use a filter to easily convert yourself into a genuine Barbie in your images.**
+- **[Barbie Filter Online](https://barbiefilter.online/) (FREEMIUM) - Use a filter to easily convert yourself into a genuine Barbie in your images.**
 
 
 ## Video Generators
