@@ -68,6 +68,7 @@
 ## Image Editing
 - **[Adobe Firefly](https://firefly.adobe.com/) (FREE) - A large selection of high-quality templates and tools for editing or creating photos.**
 - **[Vectorizer AI](https://vectorizer.ai/) (FREE) - Convert your PNG or JPEG photos to SVG vectors quickly and automatically.**
+- **[Clipdrop](https://clipdrop.co/) (FREEMIUM) - A toolkit of choice for quickly producing visually captivating art.**
 
 
 ## Video Generators
