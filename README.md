@@ -70,6 +70,7 @@
 - **[Vectorizer AI](https://vectorizer.ai/) (FREE) - Convert your PNG or JPEG photos to SVG vectors quickly and automatically.**
 - **[Clipdrop](https://clipdrop.co/) (FREEMIUM) - A toolkit of choice for quickly producing visually captivating art.**
 - **[Remove BG](https://www.remove.bg/) (FREE) - Remove away of an image's backdrop for free.**
+- **[Inpainting Nvidia](https://www.nvidia.com/research/inpainting/index.html) (FREE) - Using an AI-powered retouching brush, edit your photos.**
 
 
 ## Video Generators
