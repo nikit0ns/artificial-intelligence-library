@@ -74,7 +74,7 @@
 - **[Vectorizer IO](https://www.vectorizer.io/) (PAID) - An AI capable of creating vector graphics from your images.**
 - **[MemeCam AI](https://memecam.ai/) (FREE) - An AI generates personalized memes from a selected photo.**
 - **[Nostalgia Photo](https://www.nostalgia.photo/) (PAID) - An AI  may drastically improve the quality of your photo watches.**
-- **[Backgrounds Blur](https://magicstudio.com/backgroundblur//) (FREE) - The AI will blur your backdrop if you upload a picture. **
+- **[Backgrounds Blur](https://magicstudio.com/backgroundblur//) (FREE) - The AI will blur your backdrop if you upload a picture.**
 
 
 ## Video Generators
