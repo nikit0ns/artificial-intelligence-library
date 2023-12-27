@@ -28,7 +28,7 @@
 - **[Playground AI](https://playgroundai.com/) (FREEMIUM) - An really popular generator that generates pertinent images.**
 - **[Neural Canvas](https://neuralcanvas.io/) (PAID) - This Comic Book generator can be used to create your own Comic Book.** 
 - **[Microsoft Designer](https://designer.microsoft.com/) (FREEMIUM) - AI-generated marketing graphics for polished, high-end visuals.**
-- **[Skybox Lab](https://skybox.blockadelabs.com/) (FREE) - Generate prototypes for panoramic skyboxes and save them with a resolution of 1536×3278 pixels.**
+- **[Skybox Lab](https://skybox.blockadelabs.com/) (FREE) - Generate 1536 x 3278 pixel prototypes for panoramic skyboxes.**
 - **[Deep AI](https://deepai.org/machine-learning-model/text2img) (FREE) - A straightforward, free image generator with lots of modification possibilities.**
 - **[RocketAI](https://rocketai.io/) (FREE) - Create and edit images for your e-commerce sites.**
 - **[Image To Meme](https://imagetomeme.com/) (FREEMIUM) - Transform an image into a timely meme right away.**
