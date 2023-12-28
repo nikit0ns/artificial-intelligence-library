@@ -91,6 +91,8 @@
 - **[Steve AI](https://www.steve.ai/) (FREEMIUM) - Generate videos for every social media platform.**
 - **[ArtFlow AI](https://artflow.ai/) (FREE) - Creating animated video, images, or avatars.**
 - **[Zeroscope AI](https://huggingface.co/cerspense/zeroscope_v2_XL) (FREE) - An amazing text-to-video generator that can create short, naturalistic videos.**
+- **[AI Reality](https://aireality.tech/) (PAID) - An amazing text-to-video generator that can create short, naturalistic videos.**
+
 
 ## Audio Editing
 ## Music Creation
