@@ -84,6 +84,7 @@
 
 ## Video Generators
 - **[Studio D-ID](https://studio.d-id.com/) (FREEMIUM) - Generate expert videos using images, text, or audio.**
+- **[Kaiber AI](https://kaiber.ai/) (FREEMIUM) - Allow AI's creativity to transform your images into amazing videos.**
 
 ## Audio Editing
 ## Music Creation
