@@ -87,6 +87,7 @@
 - **[Kaiber AI](https://kaiber.ai/) (FREEMIUM) - Allow AI's creativity to transform your images into amazing videos.**
 - **[Pictory AI](https://pictory.ai//) (FREE) - Create videos instantly, no experience necessary.**
 - **[FILM](https://replicate.com/google-research/frame-interpolation) (FREE) - Create motion movies from one of your images.**
+- **[Opus](https://opus.ai/) (PAID) - This AI will transform a written description into a video game or movie.**
 
 ## Audio Editing
 ## Music Creation
