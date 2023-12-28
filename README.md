@@ -92,6 +92,7 @@
 - **[ArtFlow AI](https://artflow.ai/) (FREE) - Creating animated video, images, or avatars.**
 - **[Zeroscope AI](https://huggingface.co/cerspense/zeroscope_v2_XL) (FREE) - An amazing text-to-video generator that can create short, naturalistic videos.**
 - **[AI Reality](https://aireality.tech/) (PAID) - Generates virtual reality using text.**
+- **[Quinvio AI](https://www.quinv.io/ai) (FREEMIUM) - An AI assistant to quickly and simply create a video.**
 
 
 ## Audio Editing
