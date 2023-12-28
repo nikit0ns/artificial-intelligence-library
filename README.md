@@ -83,6 +83,8 @@
 
 
 ## Video Generators
+- **[Studio D-ID](https://studio.d-id.com/) (FREEMIUM) - Generate expert videos using images, text, or audio.**
+
 ## Audio Editing
 ## Music Creation
 ## Voice Reading
