@@ -89,6 +89,7 @@
 - **[FILM](https://replicate.com/google-research/frame-interpolation) (FREE) - Create motion movies from one of your images.**
 - **[Opus](https://opus.ai/) (PAID) - This AI will transform a written description into a video game or movie.**
 - **[Steve AI](https://www.steve.ai/) (FREEMIUM) - Generate videos for every social media platform.**
+- **[ArtFlow AI](https://artflow.ai/) (FREE) - Creating animated video, images, or avatars.**
 
 ## Audio Editing
 ## Music Creation
