@@ -88,6 +88,7 @@
 - **[Pictory AI](https://pictory.ai//) (FREE) - Create videos instantly, no experience necessary.**
 - **[FILM](https://replicate.com/google-research/frame-interpolation) (FREE) - Create motion movies from one of your images.**
 - **[Opus](https://opus.ai/) (PAID) - This AI will transform a written description into a video game or movie.**
+- **[Steve AI](https://www.steve.ai/) (FREEMIUM) - Generate videos for every social media platform.**
 
 ## Audio Editing
 ## Music Creation
