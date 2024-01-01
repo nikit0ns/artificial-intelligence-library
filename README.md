@@ -98,7 +98,7 @@
 ## Audio Editing
 - **[Adobe Podcast](https://podcast.adobe.com/) (FREE) - Podcast audio recording, editing, and improvement.**
 - **[Vocal Remover](https://vocalremover.org/) (FREE) - An AI assistant capable of swiftly separating music and voice on any type of song.**
-- **[Covers AI](https://www.covers.ai/) (FREEMIUM) - Using a voice sample or music, Cover IA is generated automatically.**
+- **[Covers AI](https://www.covers.ai/) (FREEMIUM) - Using a voice sample or music, Covers AI is generated automatically.**
 
 
 ## Music Creation
