@@ -103,6 +103,7 @@
 - **[Voice AI](https://voice.ai/) (FREE) - An AI speech modifier for games or broadcasting in real time.**
 - **[CloneDub](https://www.clonedub.com/) (FREE) - Transcribe your recordings into any language while maintaining the original voice.**
 - **[FineShare Singify](https://singify.fineshare.com/) (FREE) - Generate songs covers with a free online tool.**
+- **[Noise Eraser](https://eraserapp.dwave.cc/en) (FREEMIUM) - Hundreds of voices are available on a site that lets you create AI covers.**
 
 
 ## Music Creation
