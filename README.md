@@ -100,7 +100,7 @@
 - **[Vocal Remover](https://vocalremover.org/) (FREE) - An AI assistant capable of swiftly separating music and voice on any type of song.**
 - **[Covers AI](https://www.covers.ai/) (FREEMIUM) - Using a voice sample or music, Covers AI is generated automatically.**
 - **[Voicemy.ai](https://voicemy.ai/) (FREEMIUM) - Generate AI covers, which offers hundreds of voices from famous people throughout the world.**
-- **[Voice AI](https://voice.ai/) (FREE) - An AI speech modifier for games or broadcasting in real time**
+- **[Voice AI](https://voice.ai/) (FREE) - An AI speech modifier for games or broadcasting in real time.**
 
 
 ## Music Creation
