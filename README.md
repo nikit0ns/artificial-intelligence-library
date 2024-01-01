@@ -96,6 +96,9 @@
 
 
 ## Audio Editing
+- **[Adobe Podcast](https://podcast.adobe.com/) (FREE) - Podcast audio recording, editing, and improvement.**
+
+
 ## Music Creation
 ## Voice Reading
 ## Logo Creation
