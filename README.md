@@ -113,6 +113,7 @@
 - **[Synthesizer V](https://dreamtonics.com/en/synthesizerv/) (FREEMIUM) - An AI powered music creation tool that produces lifelike vocals.**
 - **[Harmonai](https://www.harmonai.org/) (FREE) - An AI that is available for free that can produce endless music.**
 - **[Sonify](https://www.sonify.io/) (FREEMIUM) - An AI and data design for music and audio products.**
+- **[SongR](https://www.songr.ai/) (FREE) - Generate unique music and songs in a matter of seconds.**
 
 ## Voice Reading
 ## Logo Creation
