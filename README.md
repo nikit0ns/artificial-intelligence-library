@@ -116,6 +116,7 @@
 - **[SongR](https://www.songr.ai/) (FREE) - Generate unique music and songs in a matter of seconds.**
 - **[Maroofy](https://maroofy.com/) (FREE) - Looks for music or music that sounds close to the songs you feed it.**
 - **[Loudly](https://www.loudly.com/) (FREEMIUM) - Generate music automatically with the help of AI.**
+- **[Piano Genie](https://piano-genie.glitch.me/) (FREE) - Transform your keyboard into a true, sophisticated piano.**
 
 ## Voice Reading
 ## Logo Creation
