@@ -110,6 +110,7 @@
 
 ## Music Creation
 - **[Voicify AI](https://www.voicify.ai/) (PAID) - Create your very first AI cover by simply changing the voice on any song you choose.**
+- **[Synthesizer V](https://dreamtonics.com/en/synthesizerv/) (FREEMIUM) - An AI powered music creation tool that produces lifelike vocals.**
   
 
 ## Voice Reading
