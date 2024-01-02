@@ -114,7 +114,7 @@
 - **[Harmonai](https://www.harmonai.org/) (FREE) - An AI that is available for free that can produce endless music.**
 - **[Sonify](https://www.sonify.io/) (FREEMIUM) - An AI and data design for music and audio products.**
 - **[SongR](https://www.songr.ai/) (FREE) - Generate unique music and songs in a matter of seconds.**
-- **[Maroofy](https://maroofy.com/) (FREE) - AI that looks for music or music that sounds close to the songs you feed it.**
+- **[Maroofy](https://maroofy.com/) (FREE) - Looks for music or music that sounds close to the songs you feed it.**
 
 ## Voice Reading
 ## Logo Creation
