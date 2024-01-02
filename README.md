@@ -117,6 +117,7 @@
 - **[Maroofy](https://maroofy.com/) (FREE) - Looks for music or music that sounds close to the songs you feed it.**
 - **[Loudly](https://www.loudly.com/) (FREEMIUM) - Generate music automatically with the help of AI.**
 - **[Piano Genie](https://piano-genie.glitch.me/) (FREE) - Transform your keyboard into a true, sophisticated piano.**
+- **[Lemonaid](https://lemonaid.ai/) (PAID) - Ideas for music styles and music generation..**
 
 ## Voice Reading
 ## Logo Creation
