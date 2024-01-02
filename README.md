@@ -118,6 +118,7 @@
 - **[Loudly](https://www.loudly.com/) (FREEMIUM) - Generate music automatically with the help of AI.**
 - **[Piano Genie](https://piano-genie.glitch.me/) (FREE) - Transform your keyboard into a true, sophisticated piano.**
 - **[Lemonaid](https://lemonaid.ai/) (PAID) - Ideas for music styles and music generation.**
+- **[Endel](https://endel.io/) (FREEMIUM) - Create personalized music to help you with concentration, relaxation, or sleep.**
 
 ## Voice Reading
 ## Logo Creation
