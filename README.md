@@ -125,6 +125,7 @@
 - **[Coqui](https://coqui.ai/) (FREE) - A traditional voice reader that can easily read your text.**
 - **[Ask My Book](https://askmybook.com/) (FREE) - A speech reader that consults a book library to provide answers to your queries.**
 - **[Speechify](https://speechify.com/) (FREEMIUM) - Compose a text and have a well-known voice actor read it.**
+- **[Narration Box](https://narrationbox.com/) (FREEMIUM) - Produce podcasts, voiceovers, narrations, and more.**
   
 
 ## Logo Creation
