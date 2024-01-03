@@ -128,7 +128,7 @@
 - **[Narration Box](https://narrationbox.com/) (FREEMIUM) - Produce podcasts, voiceovers, narrations, and more.**
 - **[Blubli AI](https://blubi.ai/) (PAID) - Build a chatbot that converses with its user directly.**
 - **[ReplicaStudios](https://www.replicastudios.com/) (FREEMIUM) - Generate realistic voices for games, movies, and the metaverse.**
-- **[ReplicaStudios](https://www.replicastudios.com/) (FREE) - An AI that can reproduce your voice by reading your text.**
+- **[Resemble](https://www.resemble.ai/) (FREE) - An AI that can reproduce your voice by reading your text.**
   
 
 ## Logo Creation
