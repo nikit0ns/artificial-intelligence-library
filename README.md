@@ -121,6 +121,9 @@
 - **[Endel](https://endel.io/) (FREEMIUM) - Create personalized music to help you with concentration, relaxation, or sleep.**
 
 ## Voice Reading
+- **[VoiceOverMaker](https://voiceovermaker.io/) (FREEMIUM) - Convert your text into speech produced by an AI.**
+  
+
 ## Logo Creation
 ## Storytelling Generators
 ## Video Edition
