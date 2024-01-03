@@ -127,6 +127,7 @@
 - **[Speechify](https://speechify.com/) (FREEMIUM) - Compose a text and have a well-known voice actor read it.**
 - **[Narration Box](https://narrationbox.com/) (FREEMIUM) - Produce podcasts, voiceovers, narrations, and more.**
 - **[Blubli AI](https://blubi.ai/) (PAID) - Build a chatbot that converses with its user directly.**
+- **[ReplicaStudios](https://www.replicastudios.com/) (FREEMIUM) - Generate realistic voices for games, movies, and the metaverse.**
   
 
 ## Logo Creation
