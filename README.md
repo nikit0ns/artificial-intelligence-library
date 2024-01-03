@@ -122,6 +122,7 @@
 
 ## Voice Reading
 - **[VoiceOverMaker](https://voiceovermaker.io/) (FREEMIUM) - Convert your text into speech produced by an AI.**
+- **[Coqui](https://coqui.ai/) (FREE) - A traditional voice reader that can easily read your text.**
   
 
 ## Logo Creation
