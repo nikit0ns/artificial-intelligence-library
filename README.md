@@ -129,6 +129,7 @@
 - **[Blubli AI](https://blubi.ai/) (PAID) - Build a chatbot that converses with its user directly.**
 - **[ReplicaStudios](https://www.replicastudios.com/) (FREEMIUM) - Generate realistic voices for games, movies, and the metaverse.**
 - **[Resemble](https://www.resemble.ai/) (FREE) - An AI that can reproduce your voice by reading your text.**
+- **[Murf AI](https://murf.ai/) (PAID) - One of the best voice generators available.**
   
 
 ## Logo Creation
