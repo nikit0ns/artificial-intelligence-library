@@ -135,6 +135,7 @@
 
 ## Logo Creation
 - **[Namecheap](https://www.namecheap.com/logo-maker/) (FREE) - A free and simple online tool for creating logos.**
+- **[Brandmark](https://brandmark.io/tools/) (PAID) - Generate and enhance your logos in a professional way.**
 
 
 ## Storytelling Generators
