@@ -143,6 +143,7 @@
 - **[Looka](https://looka.com/) (FREEMIUM) - Logo creation for your business or website.**
 - **[Logo Diffusion](https://logodiffusion.com/) (FREEMIUM) - Generate logos with AI in a matter of seconds.**
 - **[LogoFast](https://logofa.st/) (FREE) - An AI assistant that makes creating a logo simple.**
+- **[DeepFloyd IF](https://deepfloyd.ai/deepfloyd-if) (FREE) - An image generator that respects the text you input.**
 
 
 ## Storytelling Generators
