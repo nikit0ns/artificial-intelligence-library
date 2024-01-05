@@ -142,6 +142,7 @@
 - **[Make Logo AI](https://makelogoai.com/) (PAID) - A premium excellent logo generator.**
 - **[Looka](https://looka.com/) (FREEMIUM) - Logo creation for your business or website.**
 - **[Logo Diffusion](https://logodiffusion.com/) (FREEMIUM) - Generate logos with AI in a matter of seconds.**
+- **[LogoFast](https://logofa.st/) (FREE) - An AI assistant that makes creating a logo simple.**
 
 
 ## Storytelling Generators
