@@ -153,6 +153,7 @@
 - **[AI Story](https://www.aistorygenerator.org/) (FREE) - Generate amazing, succinct stories from a text prompt.**
 - **[Subtxt](https://subtxt.app/) (PAID) - A story generator that expands your ideas.**
 - **[Charisma](https://charisma.ai/) (FREE) - An AI generate interactive narratives and characters.**
+- **[Storyboard Hero](https://storyboardhero.ai/) (PAID) - Generate storyboards, scripts, and ideas.**
 
 
 ## Video Edition
