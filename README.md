@@ -152,6 +152,7 @@
 - **[StoryWizard](https://www.storywizard.ai/) (FREEMIUM) - Creation of children's stories with pictures and animations.**
 - **[AI Story](https://www.aistorygenerator.org/) (FREE) - Generate amazing, succinct stories from a text prompt.**
 - **[Subtxt](https://subtxt.app/) (PAID) - A story generator that expands your ideas.**
+- **[Charisma](https://charisma.ai/) (FREE) - An AI generate interactive narratives and characters.**
 
 
 ## Video Edition
