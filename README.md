@@ -148,6 +148,7 @@
 
 ## Storytelling Generators
 - **[Once Upon A Bot](https://onceuponabot.com/) (PAID) - An AI that creates unique children's stories.**
+- **[What on earth?](https://www.whatonearth.xyz/) (FREE) - With a prompt, this AI creates amazing narratives.**
 
 
 ## Video Edition
