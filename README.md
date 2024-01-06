@@ -147,6 +147,9 @@
 
 
 ## Storytelling Generators
+- **[Once Upon A Bot](https://onceuponabot.com/) (PAID) - An AI that creates unique children's stories.**
+
+
 ## Video Edition
 ## Code Assistants
 
