@@ -154,6 +154,7 @@
 - **[Subtxt](https://subtxt.app/) (PAID) - A story generator that expands your ideas.**
 - **[Charisma](https://charisma.ai/) (FREE) - An AI generate interactive narratives and characters.**
 - **[Storyboard Hero](https://storyboardhero.ai/) (PAID) - Generate storyboards, scripts, and ideas.**
+- **[Custom Story Creator](https://customstorycreator.com/) (FREEMIUM) - Transform your texts into comics or anime.**
 
 
 ## Video Edition
