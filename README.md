@@ -156,6 +156,7 @@
 - **[Storyboard Hero](https://storyboardhero.ai/) (PAID) - Generate storyboards, scripts, and ideas.**
 - **[Custom Story Creator](https://customstorycreator.com/) (FREEMIUM) - Transform your texts into comics or anime.**
 - **[Child Book](https://www.childbook.ai/) (PAID) - Generate stories for children with this easy-to-use application.**
+- **[DreamGen](https://dreamgen.com/) (FREEMIUM) - An AI tool to generate characters and tales without restrictions.**
 
 
 ## Video Edition
