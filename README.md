@@ -165,6 +165,7 @@
 - **[Spellbox AI](https://spellbox.app/) (PAID) - Resolves any code issue.**
 - **[ProgrammingHelper](https://www.programming-helper.com/) (FREE) - Assisting developers at all levels with code creation.**
 - **[Cheat Layer AI](https://cheatlayer.com/) (FREEMIUM) - Automation of code for software developers and enterprises.**
+- **[Ask Codi](https://www.askcodi.com/) (FREEMIUM) - Allows you avoid doing tedious things when coding.**
 
 
 ## Education
