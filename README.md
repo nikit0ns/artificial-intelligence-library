@@ -14,7 +14,6 @@
 - **[Voice Reading](#voice-reading)**
 - **[Logo Creation](#logo-creation)**
 - **[Storytelling Generators](#storytelling-generators)**
-- **[Video Edition](#video-edition)**
 - **[Code Assistants](#code-assistants)**
 
 ## Image & Drawings
@@ -159,6 +158,5 @@
 - **[DreamGen](https://dreamgen.com/) (FREEMIUM) - An AI tool to generate characters and tales without restrictions.**
 
 
-## Video Edition
 ## Code Assistants
 
