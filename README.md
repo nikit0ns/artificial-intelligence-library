@@ -164,6 +164,7 @@
 - **[Replit AI](https://replit.com/) (FREEMIUM) - Helps you save time and complete your code.**
 - **[Spellbox AI](https://spellbox.app/) (PAID) - Resolves any code issue.**
 - **[ProgrammingHelper](https://www.programming-helper.com/) (FREE) - Assisting developers at all levels with code creation.**
+- **[Cheat Layer AI](https://cheatlayer.com/) (FREEMIUM) - Automation of code for software developers and enterprises.**
 
 
 ## Education
