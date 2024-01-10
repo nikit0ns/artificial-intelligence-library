@@ -161,6 +161,7 @@
 
 ## Code Assistants
 - **[Codeium](https://www.codeium.com/) (FREE) - Improve your productivity and code more quickly.**
+- **[Replit AI](https://replit.com/) (FREEMIUM) - Helps you save time and complete your code.**
 
 
 ## Education
