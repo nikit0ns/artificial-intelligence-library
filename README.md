@@ -160,5 +160,8 @@
 
 
 ## Code Assistants
+- **[Codeium](https://www.codeium.com/) (FREE) - Improve your productivity and code more quickly.**
+
+
 ## Education
 
