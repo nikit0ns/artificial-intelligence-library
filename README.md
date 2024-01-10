@@ -163,6 +163,7 @@
 - **[Codeium](https://www.codeium.com/) (FREE) - Improve your productivity and code more quickly.**
 - **[Replit AI](https://replit.com/) (FREEMIUM) - Helps you save time and complete your code.**
 - **[Spellbox AI](https://spellbox.app/) (PAID) - Resolves any code issue.**
+- **[ProgrammingHelper](https://www.programming-helper.com/) (FREE) - Assisting developers at all levels with code creation.**
 
 
 ## Education
