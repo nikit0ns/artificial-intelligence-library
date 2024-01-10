@@ -15,6 +15,7 @@
 - **[Logo Creation](#logo-creation)**
 - **[Storytelling Generators](#storytelling-generators)**
 - **[Code Assistants](#code-assistants)**
+- **[Education](#education)**
 
 ## Image & Drawings
 - **[MidJourney](https://midjourney.com/) (FREEMIUM) - Strong image generation based on text description.**
@@ -159,4 +160,5 @@
 
 
 ## Code Assistants
+## Education
 
