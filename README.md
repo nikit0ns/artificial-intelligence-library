@@ -174,4 +174,5 @@
 
 ## Education
 - **[Tome AI](https://beta.tome.app/) (FREE) - Assistance with the creation of a presentation.**
+- **[FireFlies](https://fireflies.ai/) (FREEMIUM) - Automate the notes from your meetings.**
 
