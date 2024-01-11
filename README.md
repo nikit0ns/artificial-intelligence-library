@@ -176,4 +176,5 @@
 - **[Tome AI](https://beta.tome.app/) (FREE) - Assistance with the creation of a presentation.**
 - **[FireFlies](https://fireflies.ai/) (FREEMIUM) - Automate the notes from your meetings.**
 - **[Humata AI](https://www.humata.ai/) (FREE) - A multi-purpose AI with a focus on PDF documents.**
+- **[Perplexity AI](https://www.perplexity.ai/) (FREE) - A search engine that provides accurate responses to difficult queries.**
 
