@@ -169,6 +169,7 @@
 - **[Arduino ai](https://www.duinocodegenerator.com/) (FREE) - Arduino code generator derived from a brief explanation.**
 - **[Mutable](https://mutable.ai/) (FREEMIUM) - AI-supported code development.**
 - **[AI Code Converter](https://aicodeconvert.com/) (FREE) - Converts code from one programming language to another.**
+- **[Cursor AI](https://www.cursor.so/) (FREE) - Helps the creation of code, programs, and applications.**
 
 
 ## Education
