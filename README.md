@@ -178,4 +178,5 @@
 - **[Humata AI](https://www.humata.ai/) (FREE) - A multi-purpose AI with a focus on PDF documents.**
 - **[Perplexity AI](https://www.perplexity.ai/) (FREE) - A search engine that provides accurate responses to difficult queries.**
 - **[WolframAlpha](https://www.wolframalpha.com/) (FREEMIUM) - Calculate or ask this amazing AI, a science expert, anything you want.**
+- **[Education CoPilot](https://educationcopilot.com/) (FREEMIUM) - Generate your courses and schedules automatically.**
 
