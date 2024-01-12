@@ -181,5 +181,5 @@
 - **[Education CoPilot](https://educationcopilot.com/) (FREEMIUM) - Generate your courses and schedules automatically.**
 - **[Otter AI](https://otter.ai/) (FREE) - Transcribes speech dialogue into text.**
 - **[Rize IO](https://rize.io/) (FREE) - Allows you to focus and manage your time more effectively.**
-- **[CheckForAI](https://checkforai.com/) (FREE) - iIdentifies content of AI in your text by examining its content.**
+- **[CheckForAI](https://checkforai.com/) (FREE) - Identifies content of AI in your text by examining its content.**
 
