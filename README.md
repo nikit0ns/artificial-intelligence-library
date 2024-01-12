@@ -180,4 +180,5 @@
 - **[WolframAlpha](https://www.wolframalpha.com/) (FREEMIUM) - Calculate or ask this amazing AI, a science expert, anything you want.**
 - **[Education CoPilot](https://educationcopilot.com/) (FREEMIUM) - Generate your courses and schedules automatically.**
 - **[Otter AI](https://otter.ai/) (FREE) - Transcribes speech dialogue into text.**
+- **[Rize IO](https://rize.io/) (FREE) - Allows you to focus and manage your time more effectively.**
 
