@@ -16,6 +16,7 @@
 - **[Storytelling Generators](#storytelling-generators)**
 - **[Code Assistants](#code-assistants)**
 - **[Education](#education)**
+- **[Developer Tools](#developer-tools)**
 
 ## Image & Drawings
 - **[MidJourney](https://midjourney.com/) (FREEMIUM) - Strong image generation based on text description.**
@@ -183,3 +184,6 @@
 - **[Rize IO](https://rize.io/) (FREE) - Allows you to focus and manage your time more effectively.**
 - **[CheckForAI](https://checkforai.com/) (FREE) - Identifies content of AI in your text by examining its content.**
 - **[Doctrina AI](https://www.doctrina.ai/) (FREE) - Support for students and children learning remotely.**
+
+
+## Developer Tools
