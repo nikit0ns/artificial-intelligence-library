@@ -189,3 +189,4 @@
 ## Developer Tools
 - **[Mintlify](https://mintlify.com/) (FREEMIUM) - Automatic generation documentation for your projects.**
 - **[Teachable Machine](https://teachablemachine.withgoogle.com/) (FREE) - Explore and create new AI without having to write any code.**
+- **[PromptLayer](https://promptlayer.com/) (FREE) - Analyze and arrange your OpenAI GPT prompts.**
