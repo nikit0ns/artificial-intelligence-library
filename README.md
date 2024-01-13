@@ -188,3 +188,4 @@
 
 ## Developer Tools
 - **[Mintlify](https://mintlify.com/) (FREEMIUM) - Automatic generation documentation for your projects.**
+- **[Teachable Machine](https://teachablemachine.withgoogle.com/) (FREE) - Explore and create new AI without having to write any code.**
