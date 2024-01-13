@@ -191,3 +191,4 @@
 - **[Teachable Machine](https://teachablemachine.withgoogle.com/) (FREE) - Explore and create new AI without having to write any code.**
 - **[PromptLayer](https://promptlayer.com/) (FREE) - Analyze and arrange your OpenAI GPT prompts.**
 - **[GPTDuck](https://www.gptduck.com/) (FREEMIUM) - Quickly find any files or folders on GitHub.**
+- **[SyntheticAIdata](https://syntheticaidata.com/) (PAID) - Help in building AI models for your data utilizing 3D models.**
