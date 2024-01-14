@@ -193,3 +193,4 @@
 - **[GPTDuck](https://www.gptduck.com/) (FREEMIUM) - Quickly find any files or folders on GitHub.**
 - **[SyntheticAIdata](https://syntheticaidata.com/) (PAID) - Help in building AI models for your data utilizing 3D models.**
 - **[GPUX AI](https://gpux.ai/) (FREEMIUM) - Employ Docker to run all of your autoscale inferences.**
+- **[Convai](https://www.convai.com/) (FREEMIUM) - Create characters that you may incorporate into your works.**
