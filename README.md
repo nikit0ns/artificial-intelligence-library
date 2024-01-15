@@ -196,4 +196,5 @@
 - **[Convai](https://www.convai.com/) (FREEMIUM) - Create characters that you may incorporate into your works.**
 - **[AI Data Sidekick](https://www.airops.com/sidekick) (FREEMIUM) - Use SQL code, read documentation, and other tasks with AI.**
 - **[MixPeek](https://mixpeek.com/) (FREEMIUM) - Increase the engagement rate of your data by adding an AI layer.**
+- **[Vertex AI by Google](https://cloud.google.com/vertex-ai) (FREEMIUM) - Over 130 generative tools on an AI platform that you can use for your projects.**
 
