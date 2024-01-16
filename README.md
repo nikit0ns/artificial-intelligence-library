@@ -207,3 +207,4 @@
 - **[Hippocratic AI](https://hippocratic-medical-questions.herokuapp.com/) (FREE) - A medical knowledge research tool that stores data in StatPearls.**
 - **[Ask Poppy](https://www.poppylist.com/askpoppy) (FREEMIUM) - Poppy can support you during your pregnancy and in your day-to-day activities.**
 - **[Glass Health AI](https://glass.health/ai) (FREE) - An AI that uses symptoms to assist medical personnel in diagnosing patients.**
+- **[Medical Chat](https://medical.chat-data.com/) (FREE) - An AI chatbot to assist medical in receiving responses to  medical queries.**
