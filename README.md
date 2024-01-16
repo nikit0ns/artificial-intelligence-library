@@ -202,4 +202,5 @@
 
 ## Healthcare
 - **[Woebot Health](https://woebothealth.com/) (FREE) - An individual coach who provides mental assistance.**
+- **[YourDoctor AI](https://doctor.yourmed.app/) (FREE) - Consult an AI with some medical expertise for health recommendations.**
 
