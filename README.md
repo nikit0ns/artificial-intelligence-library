@@ -209,3 +209,4 @@
 - **[Glass Health AI](https://glass.health/ai) (FREE) - An AI that uses symptoms to assist medical personnel in diagnosing patients.**
 - **[Medical Chat](https://medical.chat-data.com/) (FREE) - An AI chatbot to assist medical in receiving responses to  medical queries.**
 - **[Hoku](https://www.heyhoku.com/) (FREEMIUM) - An AI health assistant that offers health advice, including diet and exercise regimens.**
+- **[SymptomChecker IO](https://symptomchecker.io/) (FREE) - Find a diagnosis online based on your symptoms. **
