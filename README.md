@@ -204,4 +204,5 @@
 - **[Woebot Health](https://woebothealth.com/) (FREE) - An individual coach who provides mental assistance.**
 - **[YourDoctor AI](https://doctor.yourmed.app/) (FREE) - Consult an AI with some medical expertise for health recommendations.**
 - **[Lunit AI](https://www.lunit.io/en) (PAID) - An AI with a 97–99% accuracy rate in detecting cancer.**
+- **[Hippocratic AI](https://hippocratic-medical-questions.herokuapp.com/) (FREE) - A medical knowledge research tool that stores data in StatPearls.**
 
