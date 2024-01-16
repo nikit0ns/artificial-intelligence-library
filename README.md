@@ -205,4 +205,4 @@
 - **[YourDoctor AI](https://doctor.yourmed.app/) (FREE) - Consult an AI with some medical expertise for health recommendations.**
 - **[Lunit AI](https://www.lunit.io/en) (PAID) - An AI with a 97–99% accuracy rate in detecting cancer.**
 - **[Hippocratic AI](https://hippocratic-medical-questions.herokuapp.com/) (FREE) - A medical knowledge research tool that stores data in StatPearls.**
-
+- **[Ask Poppy](https://www.poppylist.com/askpoppy) (FREEMIUM) - Poppy can support you during your pregnancy and in your day-to-day activities.**
