@@ -17,6 +17,7 @@
 - **[Code Assistants](#code-assistants)**
 - **[Education](#education)**
 - **[Developer Tools](#developer-tools)**
+- **[Healthcare](#healthcare)**
 
 ## Image & Drawings
 - **[MidJourney](https://midjourney.com/) (FREEMIUM) - Strong image generation based on text description.**
@@ -197,4 +198,8 @@
 - **[AI Data Sidekick](https://www.airops.com/sidekick) (FREEMIUM) - Use SQL code, read documentation, and other tasks with AI.**
 - **[MixPeek](https://mixpeek.com/) (FREEMIUM) - Increase the engagement rate of your data by adding an AI layer.**
 - **[Vertex AI by Google](https://cloud.google.com/vertex-ai) (FREEMIUM) - Over 130 generative tools on an AI platform that you can use for projects.**
+
+
+## Healthcare
+- **[Woebot Health](https://woebothealth.com/) (FREE) - An individual coach who provides mental assistance.**
 
