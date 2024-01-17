@@ -219,3 +219,4 @@
 - **[Glasp](https://glasp.co/ai-writing) (FREE) - Generate engaging material for newsletters and other online publications.**
 - **[Personal AI](https://www.personal.ai/) (FREEMIUM) - An AI tool for quickly coming up with fresh notions and ideas.**
 - **[Sana Labs](https://www.sanalabs.com/) (PAID) - Automate your company's operations with a cooperative AI platform.**
+- **[Heyday](https://heyday.xyz/) (PAID) - An AI that keeps track of the things you need to remember automatically.**
