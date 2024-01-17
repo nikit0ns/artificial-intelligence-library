@@ -216,3 +216,4 @@
 
 # Memory
 - **[Reflect AI](https://reflect.app/) (FREEMIUM) - Use AI to improve your writing and taking notes skills.**
+- **[Glasp](https://glasp.co/ai-writing) (FREE) - Generate engaging material for newsletters and other online publications.**
