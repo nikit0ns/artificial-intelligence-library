@@ -218,3 +218,4 @@
 - **[Reflect AI](https://reflect.app/) (FREEMIUM) - Use AI to improve your writing and taking notes skills.**
 - **[Glasp](https://glasp.co/ai-writing) (FREE) - Generate engaging material for newsletters and other online publications.**
 - **[Personal AI](https://www.personal.ai/) (FREEMIUM) - An AI tool for quickly coming up with fresh notions and ideas.**
+- **[Sana Labs](https://www.sanalabs.com/) (PAID) - Automate your company's operations with a cooperative AI platform.**
