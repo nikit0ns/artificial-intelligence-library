@@ -18,6 +18,7 @@
 - **[Education](#education)**
 - **[Developer Tools](#developer-tools)**
 - **[Healthcare](#healthcare)**
+- **[Memory](#memory)**
 
 ## Image & Drawings
 - **[MidJourney](https://midjourney.com/) (FREEMIUM) - Strong image generation based on text description.**
@@ -211,3 +212,6 @@
 - **[Hoku](https://www.heyhoku.com/) (FREEMIUM) - An AI health assistant that offers health advice, including diet and exercise regimens.**
 - **[SymptomChecker IO](https://symptomchecker.io/) (FREE) - Find a diagnosis online based on your symptoms.**
 - **[Cradle](https://cradle.bio/) (PAID) - An AI tool to help scientists quickly and efficiently construct proteins.**
+
+
+# Memory
