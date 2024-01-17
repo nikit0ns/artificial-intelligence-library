@@ -220,3 +220,5 @@
 - **[Personal AI](https://www.personal.ai/) (FREEMIUM) - An AI tool for quickly coming up with fresh notions and ideas.**
 - **[Sana Labs](https://www.sanalabs.com/) (PAID) - Automate your company's operations with a cooperative AI platform.**
 - **[Heyday](https://heyday.xyz/) (PAID) - An AI that keeps track of the things you need to remember automatically.**
+- **[Metkagram](https://metkagram.app/) (FREEMIUM) - An AI that keeps track of the things you need to remember automatically.**
+- **[Talknotes](https://talknotes.io/) (FREE) - Records everything you say in handwritten notes.**
