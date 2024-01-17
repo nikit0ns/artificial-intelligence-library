@@ -222,3 +222,4 @@
 - **[Heyday](https://heyday.xyz/) (PAID) - An AI that keeps track of the things you need to remember automatically.**
 - **[Metkagram](https://metkagram.app/) (FREEMIUM) - An AI that keeps track of the things you need to remember automatically.**
 - **[Talknotes](https://talknotes.io/) (FREE) - Records everything you say in handwritten notes.**
+- **[Penseum](https://www.penseum.com/) (FREE) - Organize and evaluate academic information using this AI tool to improve your study.**
