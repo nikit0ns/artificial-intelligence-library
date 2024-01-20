@@ -87,6 +87,7 @@
 - **[Vector to 3D](https://www.meimu.design/vector-to-3d/) (FREEMIUM) - A program that generates 3D effects based on a vector image.**
 - **[Misgif](https://misgif.app/) (FREE) - Faceswap, an AI technology, allows you to replace a character's face in a GIF with your own.**
 - **[AI Yearbook Generator](https://aiyearbook.art/) (FREEMIUM) - Enjoy creating your portrait in the classic 90s style.**
+- **[Image Cleaner](https://imgcleaner.com/) (FREE) - Remove out anything that isn't needed in your photos.**
 
 
 ## Video Generators
