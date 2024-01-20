@@ -92,6 +92,7 @@
 - **[Picsart](https://picsart.com/) (PAID) - AI tools to create artistic creations.**
 - **[Imagecolorizer](https://imagecolorizer.com/) (FREE) - Find your memories again by adding color to your previously colorless photos.**
 - **[GetBetterPics](https://www.getbetterpics.com/) (PAID) - creates high-quality images quickly and in a variety of styles for social media.**
+- **[Recraft](https://www.recraft.ai/) (FREE) - An AI is simple to generate and edit vector graphics, icons, and 3D representations.**
 
 
 ## Video Generators
