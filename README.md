@@ -76,7 +76,7 @@
 - **[Textbuddy](https://textbuddy.com/) (FREEMIUM) - An intelligent tool that evaluates your writing to help you write better and simply.**
 - **[Rizz](https://rizzai.com/) (FREE) - An AI created specifically to compose short texts for social media, emails and other platforms.**
 - **[Rephrasee](https://www.rephrasee.com/) (FREE) - An AI writing expert that can simply reword, simplify, and enhance your writings.**
-- **[Great Headlines](https://greatheadlines.ai/) (FREE) - AI that quickly creates attention-grabbing headlines is perfect for copywriters and marketers.**
+- **[Great Headlines](https://greatheadlines.ai/) (FREE) - An AI that quickly creates attention-grabbing headlines is perfect for copywriters.**
 - **[Trolly](https://trolly.ai/) (FREEMIUM) - A collection of resources to help write SEO content more quickly.**
 - **[Scribens](https://www.scribens.fr/) (FREE) - A spell checker that looks for mistakes in the text.**
 
