@@ -78,6 +78,7 @@
 - **[Rephrasee](https://www.rephrasee.com/) (FREE) - An AI writing expert that can simply reword, simplify, and enhance your writings.**
 - **[Great Headlines](https://greatheadlines.ai/) (FREE) - AI that quickly creates attention-grabbing headlines is perfect for copywriters and marketers.**
 - **[Trolly](https://trolly.ai/) (FREEMIUM) - A collection of resources to help write SEO content more quickly.**
+- **[Scribens](https://www.scribens.fr/) (FREE) - A spell checker that looks for mistakes in the text.**
 
 
 ## Image Editing
