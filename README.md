@@ -73,7 +73,7 @@
 - **[CopyGen](https://copygen.pro/) (PAID) - An AI-assisted writer capable of producing SEO articles and material for social media.**
 - **[Scribble AI](https://apps.apple.com/us/app/scribble-ai/id1662081018) (FREE) - Text is automatically generated for various content kinds with custom stylistic choices.**
 - **[Magic Type AI](https://www.magictype.ai/) (FREE) - A text generator that generate poems and poetry.**
-- **[Textbuddy](https://textbuddy.com/) (FREEMIUM) - An intelligent tool that evaluates your writing to help you write better and more simply.**
+- **[Textbuddy](https://textbuddy.com/) (FREEMIUM) - An intelligent tool that evaluates your writing to help you write better and simply.**
 
 
 ## Image Editing
