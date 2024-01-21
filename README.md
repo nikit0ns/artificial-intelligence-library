@@ -75,6 +75,7 @@
 - **[Magic Type AI](https://www.magictype.ai/) (FREE) - A text generator that generate poems and poetry.**
 - **[Textbuddy](https://textbuddy.com/) (FREEMIUM) - An intelligent tool that evaluates your writing to help you write better and simply.**
 - **[Rizz](https://rizzai.com/) (FREE) - An AI created specifically to compose short texts for social media, emails and other platforms.**
+- **[Rephrasee](https://www.rephrasee.com/) (FREE) - An AI writing expert that can simply reword, simplify, and enhance your writings.**
 
 
 ## Image Editing
