@@ -70,6 +70,7 @@
 - **[Newswriter AI](https://newswriter.ai/) (FREE) - An AI assistant for GPT-3 news release authoring.**
 - **[Keywrds AI](https://keywrds.ai/) (PAID) - Find SEO subjects that are relevant to your audience by using AI to produce keywords.**
 - **[Jounce](https://www.jounce.ai/) (PAID) - Textwriting assistance provided by artificial intelligence.**
+- **[CopyGen](https://copygen.pro/) (PAID) - An AI-assisted writer capable of producing SEO articles and material for social media.**
 
 
 ## Image Editing
