@@ -63,6 +63,7 @@
 - **[Mistral AI](https://mistral.ai/) (FREE) - An open-source generating text AI model.**
 - **[Amazon Q](https://aws.amazon.com/q/) (PAID) - An AI assistant designed specifically to support you in your work or professional duties.**
 - **[Andi](https://andisearch.com/) (FREE) - The assistant who acts as a search engine and responds to all of your inquiries.**
+- **[Jeeves](https://jeeves.ai/) (FREE) - An AI platform that functions similarly to a search engine and lets you produce various types of content.**
 
 
 ## Writing & Web SEO
