@@ -62,6 +62,7 @@
 - **[YouChat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) (FREE) - A chatbot to help you with text, image, video, and news searches.**
 - **[Mistral AI](https://mistral.ai/) (FREE) - An open-source generating text AI model.**
 - **[Amazon Q](https://aws.amazon.com/q/) (PAID) - An AI assistant designed specifically to support you in your work or professional duties.**
+- **[Andi](https://andisearch.com/) (FREE) - The assistant who acts as a search engine and responds to all of your inquiries.**
 
 
 ## Writing & Web SEO
