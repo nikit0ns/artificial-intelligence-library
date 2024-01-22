@@ -50,13 +50,14 @@
 - **[ChatGPT](https://chat.openai.com/) (FREE) - The most popular conversational assistant in the world.**
 - **[Bard AI](https://bard.google.com/) (FREE) - A potential competitor for the AI ChatGPT.**
 - **[Microsoft Bing](https://www.bing.com/new) (FREE) - ChatGPT AI-powered the new Bing search engine.**
-- **[Poe](https://poe.com/) (PAID) - A Quora-powered AI that can answer any question you may have.**
+- **[Poe](https://poe.com/login) (PAID) - A Quora-powered AI that can answer any question you may have.**
 - **[ChatSonic](https://writesonic.com/chat) (FREE) - A chatbot attempting to compete with ChatGPT.**
 - **[Microsoft Copilot](https://copilot.microsoft.com/) (FREE) - A chatbot attempting to compete with ChatGPT.**
 - **[MemoryGPT](https://memorygpt.io/) (FREE) - An AI that is similar to ChatGPT but has a much longer memory.**
 - **[Guanaco AI](https://huggingface.co/JosephusCheung/Guanaco) (FREE) - A multilingual conversational chatbot trained on a 7B parameter model.**
 - **[StupidGPT](https://stupidgpt.lol/) (FREE) - An AI who is always up for a conversation but speaks nonsense.**
 - **[Open Assistant](https://open-assistant.io/) (FREE) - An open source AI chat bot capable of answering a wide range of questions.**
+- **[Claude AI](https://claude.ai/) (FREE) - Anthropic, with support from Google, developed a substitute AI assistant to ChatGPT.**
 - **[Claude AI](https://claude.ai/) (FREE) - Anthropic, with support from Google, developed a substitute AI assistant to ChatGPT.**
 
   
