@@ -58,7 +58,7 @@
 - **[StupidGPT](https://stupidgpt.lol/) (FREE) - An AI who is always up for a conversation but speaks nonsense.**
 - **[Open Assistant](https://open-assistant.io/) (FREE) - An open source AI chat bot capable of answering a wide range of questions.**
 - **[Claude AI](https://claude.ai/) (FREE) - Anthropic, with support from Google, developed a substitute AI assistant to ChatGPT.**
-- **[Claude AI](https://claude.ai/) (FREE) - Anthropic, with support from Google, developed a substitute AI assistant to ChatGPT.**
+- **[Grok](https://grok.x.ai/) (FREEMIUM) - It provides you with responses based on data collected in real time from X users.**
 
   
 
