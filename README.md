@@ -57,7 +57,8 @@
 - **[Guanaco AI](https://huggingface.co/JosephusCheung/Guanaco) (FREE) - A multilingual conversational chatbot trained on a 7B parameter model.**
 - **[StupidGPT](https://stupidgpt.lol/) (FREE) - An AI who is always up for a conversation but speaks nonsense.**
 - **[Open Assistant](https://open-assistant.io/) (FREE) - An open source AI chat bot capable of answering a wide range of questions.**
-- **[Playground OpenAI](https://beta.openai.com/playground) (FREEMIUM) - The expert assistant with multitasking abilities.**
+- **[Claude AI](https://claude.ai/) (FREE) - Anthropic, with support from Google, developed a substitute AI assistant to ChatGPT.**
+
   
 
 ## Writing & Web SEO
