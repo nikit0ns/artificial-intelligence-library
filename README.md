@@ -59,8 +59,8 @@
 - **[Open Assistant](https://open-assistant.io/) (FREE) - An open source AI chat bot capable of answering a wide range of questions.**
 - **[Claude AI](https://claude.ai/) (FREE) - Anthropic, with support from Google, developed a substitute AI assistant to ChatGPT.**
 - **[Grok](https://grok.x.ai/) (FREEMIUM) - It provides you with responses based on data collected in real time from X users.**
+- **[YouChat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) (FREE) - A chatbot to help you with text, image, video, and news searches.**
 
-  
 
 ## Writing & Web SEO
 - **[WriteSonic](https://writesonic.com/) (FREEMIUM) - Writing assistant and text content generator for SEO.**
