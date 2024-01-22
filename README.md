@@ -66,7 +66,7 @@
 - **[Jeeves](https://jeeves.ai/) (FREE) - An AI platform that functions similarly to a search engine and lets you produce various types of content.**
 - **[Gemini](https://deepmind.google/technologies/gemini/#introduction) (FREE) - Google's AI is capable of surpassing OpenAI's ChatGPT-4.**
 - **[StableLM](https://github.com/stability-AI/stableLM/) (FREE) - Potential AI replacement for ChatGPT that is available for free.**
-
+- **[HeyPi](https://heypi.com/talk) (FREE) - You can engage in free discussion with a chatbot that sounds like ChatGPT.**
 
 ## Writing & Web SEO
 - **[WriteSonic](https://writesonic.com/) (FREEMIUM) - Writing assistant and text content generator for SEO.**
