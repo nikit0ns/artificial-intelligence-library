@@ -60,6 +60,7 @@
 - **[Claude AI](https://claude.ai/) (FREE) - Anthropic, with support from Google, developed a substitute AI assistant to ChatGPT.**
 - **[Grok](https://grok.x.ai/) (FREEMIUM) - It provides you with responses based on data collected in real time from X users.**
 - **[YouChat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) (FREE) - A chatbot to help you with text, image, video, and news searches.**
+- **[Mistral AI](https://mistral.ai/) (FREE) - An open-source generating text AI model.**
 
 
 ## Writing & Web SEO
