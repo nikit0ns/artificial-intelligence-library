@@ -61,6 +61,7 @@
 - **[Grok](https://grok.x.ai/) (FREEMIUM) - It provides you with responses based on data collected in real time from X users.**
 - **[YouChat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) (FREE) - A chatbot to help you with text, image, video, and news searches.**
 - **[Mistral AI](https://mistral.ai/) (FREE) - An open-source generating text AI model.**
+- **[Amazon Q](https://aws.amazon.com/q/) (PAID) - An AI assistant designed specifically to support you in your work or professional duties.**
 
 
 ## Writing & Web SEO
