@@ -134,6 +134,7 @@
 - **[WowTo](https://wowto.ai/) (FREEMIUM) - Generate how-to videos quickly in a matter of minutes.**
 - **[Flickify](https://www.flickify.com/) (FREEMIUM) - Convert your written materials, webpages, and articles into beautiful videos.**
 - **[AI Studios](https://www.deepbrain.io/aistudios) (PAID) - Generate realistic-looking video avatars that can comprehend your text.**
+- **[Yepic Studio](https://www.yepic.ai/studio) (PAID) - Transform your writing into a professional video.**
 
 
 ## Audio Editing
