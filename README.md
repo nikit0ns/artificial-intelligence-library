@@ -132,6 +132,7 @@
 - **[Movio](https://www.movio.la/) (FREEMIUM) - Generate videos with realistic avatars.**
 - **[Astria](https://www.astria.ai/) (PAID) - An excellent tool for cinematic production and create own videos.**
 - **[WowTo](https://wowto.ai/) (FREEMIUM) - Generate how-to videos quickly in a matter of minutes.**
+- **[Flickify](https://www.flickify.com/) (FREEMIUM) - Convert your written materials, webpages, and articles into beautiful videos.**
 
 
 ## Audio Editing
