@@ -88,7 +88,7 @@
 - **[Cowriter](https://cowriter.org/) (FREEMIUM) - An AI with a user-friendly interface that can produce articles or essays fast.**
 - **[Great Headlines](https://greatheadlines.ai/) (FREE) - An AI that quickly creates attention-grabbing headlines is perfect for copywriters.**
 - **[Trolly](https://trolly.ai/) (FREEMIUM) - A collection of resources to help write SEO content more quickly.**
-- **[Scribens](https://www.scribens.fr/) (FREE) - A free tool that allows you to create videos by style.**
+- **[Scribens](https://www.scribens.fr/) (FREE) - A spell checker that looks for mistakes in the text.**
 
 
 ## Image Editing
