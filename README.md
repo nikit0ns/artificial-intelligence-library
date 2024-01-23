@@ -128,6 +128,7 @@
 - **[Genmo](https://alpha.genmo.ai/) (FREE) - Converts words into visuals and then into video.**
 - **[Waymark](https://waymark.com/) (PAID) - A video generator created with your company and e-commerce.**
 - **[Ebsynth](https://ebsynth.com/) (FREE) - A free tool that allows you to create videos by style.**
+- **[Vatic AI](https://www.createaivideos.com/) (FREEMIUM) - An AI to create incredible videos with just a little suggestion.**
 
 
 ## Audio Editing
