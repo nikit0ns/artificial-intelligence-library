@@ -131,6 +131,7 @@
 - **[Vatic AI](https://www.createaivideos.com/) (FREEMIUM) - An AI to create incredible videos with just a little suggestion.**
 - **[Movio](https://www.movio.la/) (FREEMIUM) - Generate videos with realistic avatars.**
 - **[Astria](https://www.astria.ai/) (PAID) - An excellent tool for cinematic production and create own videos.**
+- **[WowTo](https://wowto.ai/) (FREEMIUM) - Generate how-to videos quickly in a matter of minutes.**
 
 
 ## Audio Editing
