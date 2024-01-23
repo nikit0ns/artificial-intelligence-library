@@ -88,7 +88,7 @@
 - **[Cowriter](https://cowriter.org/) (FREEMIUM) - An AI with a user-friendly interface that can produce articles or essays fast.**
 - **[Great Headlines](https://greatheadlines.ai/) (FREE) - An AI that quickly creates attention-grabbing headlines is perfect for copywriters.**
 - **[Trolly](https://trolly.ai/) (FREEMIUM) - A collection of resources to help write SEO content more quickly.**
-- **[Scribens](https://www.scribens.fr/) (FREE) - A spell checker that looks for mistakes in the text.**
+- **[Scribens](https://www.scribens.fr/) (FREE) - A free tool that allows you to create videos by style.**
 
 
 ## Image Editing
@@ -127,6 +127,7 @@
 - **[Quinvio AI](https://www.quinv.io/ai) (FREEMIUM) - An AI assistant to quickly and simply create a video.**
 - **[Genmo](https://alpha.genmo.ai/) (FREE) - Converts words into visuals and then into video.**
 - **[Waymark](https://waymark.com/) (PAID) - A video generator created with your company and e-commerce.**
+- **[Ebsynth](https://ebsynth.com/) (FREE) - A free tool that enables style-based video creation**
 
 
 ## Audio Editing
