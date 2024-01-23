@@ -130,6 +130,7 @@
 - **[Ebsynth](https://ebsynth.com/) (FREE) - A free tool that allows you to create videos by style.**
 - **[Vatic AI](https://www.createaivideos.com/) (FREEMIUM) - An AI to create incredible videos with just a little suggestion.**
 - **[Movio](https://www.movio.la/) (FREEMIUM) - Generate videos with realistic avatars.**
+- **[Astria](https://www.astria.ai/) (PAID) - An excellent tool for cinematic production and create own videos.**
 
 
 ## Audio Editing
