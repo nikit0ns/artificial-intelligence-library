@@ -152,6 +152,7 @@
 - **[Krisp](https://krisp.ai/) (FREE) - Reduces background speech, echo, and noise.**
 - **[Altered](https://www.altered.ai/) (FREE) - Simple steps to elevate your voice to a professional one.**
 - **[Magicast](https://www.magicast.ai/) (FREE) - Transform every topic into an audio podcast experience.**
+- **[Dubbing AI](https://dubbing-ai.com/) (FREEMIUM) - An AI tool to instantly change your voice for gaming or streaming.**
 
 
 ## Music Creation
