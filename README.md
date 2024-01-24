@@ -153,6 +153,7 @@
 - **[Altered](https://www.altered.ai/) (FREE) - Simple steps to elevate your voice to a professional one.**
 - **[Magicast](https://www.magicast.ai/) (FREE) - Transform every topic into an audio podcast experience.**
 - **[Dubbing AI](https://dubbing-ai.com/) (FREEMIUM) - An AI tool to instantly change your voice for gaming or streaming.**
+- **[AudioStripe](https://www.audiostrip.co.uk/) (FREEMIUM) - Converts a song from vocals to instrumentals.**
 
 
 ## Music Creation
