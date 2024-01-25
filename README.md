@@ -170,6 +170,8 @@
 - **[Piano Genie](https://piano-genie.glitch.me/) (FREE) - Transform your keyboard into a true, sophisticated piano.**
 - **[Lemonaid](https://lemonaid.ai/) (PAID) - Ideas for music styles and music generation.**
 - **[Endel](https://endel.io/) (FREEMIUM) - Create personalized music to help you with concentration, relaxation, or sleep.**
+- **[Stable Audio](https://www.stableaudio.com/) (FREE) - Transforms your text into a song.**
+
 
 ## Voice Reading
 - **[VoiceOverMaker](https://voiceovermaker.io/) (FREEMIUM) - Convert your text into speech produced by an AI.**
