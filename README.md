@@ -176,6 +176,7 @@
 - **[SplashMusic](https://www.splashmusic.com/) (FREE) - Everyone can use this free music generator.**
 - **[Landr](https://www.landr.com/) (PAID) - Generate music, share it, and improve it with ease.**
 - **[Pop2Piano](https://www.landr.com/) (FREE) - Create inventive piano covers of any song.**
+- **[Songburst](https://www.songburst.ai/) (FREEMIUM) - A music generator with a very simple interface.**
 
 
 ## Voice Reading
