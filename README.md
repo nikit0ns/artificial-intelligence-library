@@ -171,6 +171,7 @@
 - **[Lemonaid](https://lemonaid.ai/) (PAID) - Ideas for music styles and music generation.**
 - **[Endel](https://endel.io/) (FREEMIUM) - Create personalized music to help you with concentration, relaxation, or sleep.**
 - **[Stable Audio](https://www.stableaudio.com/) (FREE) - Transforms your text into a song.**
+- **[Mubert AI](https://mubert.com/) (FREE) - AI-powered music creation that responds to a text request.**
 
 
 ## Voice Reading
