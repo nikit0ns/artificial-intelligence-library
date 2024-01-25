@@ -173,6 +173,7 @@
 - **[Stable Audio](https://www.stableaudio.com/) (FREE) - Transforms your text into a song.**
 - **[Mubert AI](https://mubert.com/) (FREE) - An AI-powered music creation that responds to a text request.**
 - **[Cassette AI](https://cassetteai.com/) (FREEMIUM) - Create music using the prompt.**
+- **[SplashMusic](https://www.splashmusic.com/) (FREE) - Everyone can use this free music generator.**
 
 
 ## Voice Reading
