@@ -156,7 +156,7 @@
 - **[AudioStripe](https://www.audiostrip.co.uk/) (FREEMIUM) - Converts a song from vocals to instrumentals.**
 - **[CleanVoice](https://cleanvoice.ai/) (FREEMIUM) - Removes stuttering and unnecessary noises from your speech when listening to podcasts.**
 - **[SpeakPerfect](https://speakperfect.co/) (FREE) - An excellent assistant for creating audio to improve your voice.**
-
+- **[Podcastle](https://podcastle.ai/) (FREE) - An AI-powered automated audio editing.**
 
 ## Music Creation
 - **[Voicify AI](https://www.voicify.ai/) (PAID) - Create your very first AI cover by simply changing the voice on any song you choose.**
