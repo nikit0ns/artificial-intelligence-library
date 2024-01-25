@@ -177,6 +177,7 @@
 - **[Landr](https://www.landr.com/) (PAID) - Generate music, share it, and improve it with ease.**
 - **[Pop2Piano](https://www.landr.com/) (FREE) - Create inventive piano covers of any song.**
 - **[Songburst](https://www.songburst.ai/) (FREEMIUM) - A music generator with a very simple interface.**
+- **[Lalal AI](https://www.lalal.ai/) (FREEMIUM) - Remove voice from music.**
 
 
 ## Voice Reading
