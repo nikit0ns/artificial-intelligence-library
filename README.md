@@ -155,6 +155,7 @@
 - **[Dubbing AI](https://dubbing-ai.com/) (FREEMIUM) - An AI tool to instantly change your voice for gaming or streaming.**
 - **[AudioStripe](https://www.audiostrip.co.uk/) (FREEMIUM) - Converts a song from vocals to instrumentals.**
 - **[CleanVoice](https://cleanvoice.ai/) (FREEMIUM) - Removes stuttering and unnecessary noises from your speech when listening to podcasts.**
+- **[SpeakPerfect](https://speakperfect.co/) (FREE) - An excellent assistant for creating audio to improve your voice.**
 
 
 ## Music Creation
