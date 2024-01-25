@@ -141,7 +141,7 @@
 - **[Adobe Podcast](https://podcast.adobe.com/) (FREE) - Podcast audio recording, editing, and improvement.**
 - **[Vocal Remover](https://vocalremover.org/) (FREE) - An AI assistant capable of swiftly separating music and voice on any type of song.**
 - **[Covers AI](https://www.covers.ai/) (FREEMIUM) - Using a voice sample or music, Covers AI is generated automatically.**
-- **[Voicemy.ai](https://voicemy.ai/) (FREEMIUM) - Generate AI covers, which offers hundreds of voices from famous people throughout the world.**
+- **[Voicemy.ai](https://voicemy.ai/) (FREEMIUM) - Generate AI covers, which offers hundreds of voices from famous people.**
 - **[Voice AI](https://voice.ai/) (FREE) - An AI speech modifier for games or broadcasting in real time.**
 - **[CloneDub](https://www.clonedub.com/) (FREE) - Transcribe your recordings into any language while maintaining the original voice.**
 - **[FineShare Singify](https://singify.fineshare.com/) (FREE) - Generate songs covers with a free online tool.**
