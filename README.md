@@ -179,6 +179,7 @@
 - **[Songburst](https://www.songburst.ai/) (FREEMIUM) - A music generator with a very simple interface.**
 - **[Lalal AI](https://www.lalal.ai/) (FREEMIUM) - Remove voice from music.**
 - **[Musicfy](https://www.musicfy.lol/) (FREEMIUM) - Generate cover versions of your favorite songs.**
+- **[Ecrett Music](https://ecrettmusic.com/) (FREEMIUM) - Create swiftly compose any type of song.**
 
 
 ## Voice Reading
