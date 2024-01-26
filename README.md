@@ -229,11 +229,12 @@
 - **[Cheat Layer AI](https://cheatlayer.com/) (FREEMIUM) - Automation of code for software developers and enterprises.**
 - **[Ask Codi](https://www.askcodi.com/) (FREEMIUM) - Allows you avoid doing tedious things when coding.**
 - **[Arduino AI](https://www.duinocodegenerator.com/) (FREE) - Arduino code generator derived from a brief explanation.**
-- **[Mutable](https://mutable.ai/) (FREEMIUM) - AI-supported code development.**
+- **[Mutable](https://mutable.ai/) (FREEMIUM) - An AI-supported code development.**
 - **[AI Code Converter](https://aicodeconvert.com/) (FREE) - Converts code from one programming language to another.**
 - **[Cursor](https://www.cursor.so/) (FREE) - Helps the creation of code, programs, and applications.**
 - **[Tabnine](https://www.tabnine.com/) (FREEMIUM) - Help with code writing.**
 - **[Raycast](https://www.raycast.com/pro) (FREEMIUM) - Boost your coding efficiency and save time.**
+- **[GitFluence](https://www.gitfluence.com/) (FREE) - Assist in rapidly locating the correct Git command.**
 
 
 ## Education
