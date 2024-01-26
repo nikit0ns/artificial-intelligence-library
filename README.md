@@ -233,6 +233,7 @@
 - **[AI Code Converter](https://aicodeconvert.com/) (FREE) - Converts code from one programming language to another.**
 - **[Cursor](https://www.cursor.so/) (FREE) - Helps the creation of code, programs, and applications.**
 - **[Tabnine](https://www.tabnine.com/) (FREEMIUM) - Help with code writing.**
+- **[Raycast](https://www.raycast.com/pro) (FREEMIUM) - Boost your coding efficiency and save time.**
 
 
 ## Education
