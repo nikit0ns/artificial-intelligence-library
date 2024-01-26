@@ -228,10 +228,11 @@
 - **[ProgrammingHelper](https://www.programming-helper.com/) (FREE) - Assisting developers at all levels with code creation.**
 - **[Cheat Layer AI](https://cheatlayer.com/) (FREEMIUM) - Automation of code for software developers and enterprises.**
 - **[Ask Codi](https://www.askcodi.com/) (FREEMIUM) - Allows you avoid doing tedious things when coding.**
-- **[Arduino ai](https://www.duinocodegenerator.com/) (FREE) - Arduino code generator derived from a brief explanation.**
+- **[Arduino AI](https://www.duinocodegenerator.com/) (FREE) - Arduino code generator derived from a brief explanation.**
 - **[Mutable](https://mutable.ai/) (FREEMIUM) - AI-supported code development.**
 - **[AI Code Converter](https://aicodeconvert.com/) (FREE) - Converts code from one programming language to another.**
-- **[Cursor AI](https://www.cursor.so/) (FREE) - Helps the creation of code, programs, and applications.**
+- **[Cursor](https://www.cursor.so/) (FREE) - Helps the creation of code, programs, and applications.**
+- **[Tabnine](https://www.tabnine.com/) (FREEMIUM) - Help with code writing.**
 
 
 ## Education
