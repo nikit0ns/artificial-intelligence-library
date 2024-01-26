@@ -236,6 +236,7 @@
 - **[Raycast](https://www.raycast.com/pro) (FREEMIUM) - Boost your coding efficiency and save time.**
 - **[GitFluence](https://www.gitfluence.com/) (FREE) - Assist in rapidly locating the correct Git command.**
 - **[CodeAssist](https://plugins.jetbrains.com/plugin/20085-codeassist) (FREE) - Generates, changes, completes the code and answers questions.**
+- **[Codium](https://www.codium.ai/) (FREE) - Spend less time and let AI help you with your coding.**
 
 
 ## Education
