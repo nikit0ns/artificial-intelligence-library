@@ -241,6 +241,7 @@
 - **[Continual](https://continual.ai/) (FREE) - Controlling your data.**
 - **[Maverick](https://marketplace.visualstudio.com/items?itemName=YurtsAI.maverick) (FREE) - Enhances your code and supports you.**
 - **[Code Autopilot](https://www.codeautopilot.com/) (FREEMIUM) - Speeds up your the coding process.**
+- **[Cosine](https://cosine.sh/) (FREEMIUM) - Get answers to any questions you have regarding your codebase and features.**
 
 
 ## Education
