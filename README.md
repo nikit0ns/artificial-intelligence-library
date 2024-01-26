@@ -239,6 +239,7 @@
 - **[Codium](https://www.codium.ai/) (FREE) - Spend less time and let AI help you with your coding.**
 - **[CodeMate](https://www.codemate.ai/) (FREE) - Autocorrects your errors, all without leaving your environment.**
 - **[Continual](https://continual.ai/) (FREE) - Controlling your data.**
+- **[Maverick](https://marketplace.visualstudio.com/items?itemName=YurtsAI.maverick) (FREE) - Enhances your code and supports you.**
 
 
 ## Education
