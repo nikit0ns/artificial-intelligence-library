@@ -175,7 +175,7 @@
 - **[Cassette AI](https://cassetteai.com/) (FREEMIUM) - Create music using the prompt.**
 - **[SplashMusic](https://www.splashmusic.com/) (FREE) - Everyone can use this free music generator.**
 - **[Landr](https://www.landr.com/) (PAID) - Generate music, share it, and improve it with ease.**
-- **[Pop2Piano](https://www.landr.com/) (FREE) - Create inventive piano covers of any song.**
+- **[Pop2Piano](https://sweetcocoa.github.io/pop2piano_samples) (FREE) - Create inventive piano covers of any song.**
 - **[Songburst](https://www.songburst.ai/) (FREEMIUM) - A music generator with a very simple interface.**
 - **[Lalal AI](https://www.lalal.ai/) (FREEMIUM) - Remove voice from music.**
 - **[Musicfy](https://www.musicfy.lol/) (FREEMIUM) - Generate cover versions of your favorite songs.**
