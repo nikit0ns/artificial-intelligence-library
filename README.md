@@ -225,19 +225,19 @@
 - **[Codeium](https://www.codeium.com/) (FREE) - Improve your productivity and code more quickly.**
 - **[Replit AI](https://replit.com/) (FREEMIUM) - Helps you save time and complete your code.**
 - **[Spellbox AI](https://spellbox.app/) (PAID) - Resolves any code issue.**
+- **[CodeAssist](https://plugins.jetbrains.com/plugin/20085-codeassist) (FREE) - Generates, changes, completes the code and answers questions.**
 - **[ProgrammingHelper](https://www.programming-helper.com/) (FREE) - Assisting developers at all levels with code creation.**
 - **[Cheat Layer AI](https://cheatlayer.com/) (FREEMIUM) - Automation of code for software developers and enterprises.**
 - **[Ask Codi](https://www.askcodi.com/) (FREEMIUM) - Allows you avoid doing tedious things when coding.**
+- **[CodeMate](https://www.codemate.ai/) (FREE) - Autocorrects your errors, all without leaving your environment.**
 - **[Arduino AI](https://www.duinocodegenerator.com/) (FREE) - Arduino code generator derived from a brief explanation.**
 - **[Mutable](https://mutable.ai/) (FREEMIUM) - An AI-supported code development.**
+- **[Codium](https://www.codium.ai/) (FREE) - Spend less time and let AI help you with your coding.**
 - **[AI Code Converter](https://aicodeconvert.com/) (FREE) - Converts code from one programming language to another.**
 - **[Cursor](https://www.cursor.so/) (FREE) - Helps the creation of code, programs, and applications.**
 - **[Tabnine](https://www.tabnine.com/) (FREEMIUM) - Help with code writing.**
 - **[Raycast](https://www.raycast.com/pro) (FREEMIUM) - Boost your coding efficiency and save time.**
 - **[GitFluence](https://www.gitfluence.com/) (FREE) - Assist in rapidly locating the correct Git command.**
-- **[CodeAssist](https://plugins.jetbrains.com/plugin/20085-codeassist) (FREE) - Generates, changes, completes the code and answers questions.**
-- **[Codium](https://www.codium.ai/) (FREE) - Spend less time and let AI help you with your coding.**
-- **[CodeMate](https://www.codemate.ai/) (FREE) - Autocorrects your errors, all without leaving your environment.**
 - **[Continual](https://continual.ai/) (FREE) - Controlling your data.**
 - **[Maverick](https://marketplace.visualstudio.com/items?itemName=YurtsAI.maverick) (FREE) - Enhances your code and supports you.**
 - **[Code Autopilot](https://www.codeautopilot.com/) (FREEMIUM) - Speeds up your the coding process.**
