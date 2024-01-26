@@ -238,6 +238,7 @@
 - **[CodeAssist](https://plugins.jetbrains.com/plugin/20085-codeassist) (FREE) - Generates, changes, completes the code and answers questions.**
 - **[Codium](https://www.codium.ai/) (FREE) - Spend less time and let AI help you with your coding.**
 - **[CodeMate](https://www.codemate.ai/) (FREE) - Autocorrects your errors, all without leaving your environment.**
+- **[Continual](https://continual.ai/) (FREE) - Controlling your data.**
 
 
 ## Education
