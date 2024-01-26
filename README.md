@@ -168,7 +168,7 @@
 - **[Maroofy](https://maroofy.com/) (FREE) - Looks for music or music that sounds close to the songs you feed it.**
 - **[Loudly](https://www.loudly.com/) (FREEMIUM) - Generate music automatically with the help of AI.**
 - **[Piano Genie](https://piano-genie.glitch.me/) (FREE) - Transform your keyboard into a true, sophisticated piano.**
-- **[Lemonaid](https://lemonaid.ai/) (PAID) - Ideas for music styles and music generation.**
+- **[AIVA](https://www.aiva.ai/) (FREE) - Create new songs in more than 250 different styles.**
 - **[Endel](https://endel.io/) (FREEMIUM) - Create personalized music to help you with concentration, relaxation, or sleep.**
 - **[Stable Audio](https://www.stableaudio.com/) (FREE) - Transforms your text into a song.**
 - **[Mubert AI](https://mubert.com/) (FREE) - An AI-powered music creation that responds to a text request.**
