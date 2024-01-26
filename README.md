@@ -240,6 +240,7 @@
 - **[CodeMate](https://www.codemate.ai/) (FREE) - Autocorrects your errors, all without leaving your environment.**
 - **[Continual](https://continual.ai/) (FREE) - Controlling your data.**
 - **[Maverick](https://marketplace.visualstudio.com/items?itemName=YurtsAI.maverick) (FREE) - Enhances your code and supports you.**
+- **[Code Autopilot](https://www.codeautopilot.com/) (FREEMIUM) - Speeds up your the coding process.**
 
 
 ## Education
