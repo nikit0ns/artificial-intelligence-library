@@ -208,6 +208,7 @@
 - **[DeepFloyd IF](https://deepfloyd.ai/deepfloyd-if) (FREE) - An image generator that respects the text you input.**
 - **[Freelogo](https://freelogo.co/) (FREEMIUM) - An effective and adaptable logo creator.**
 - **[Turbologo](https://turbologo.com/) (PAID) - Generate professional logos with options for personalization and high-quality templates.**
+- **[Logopony](https://www.logopony.com/) (PAID) - Create logos like these in seconds.**
 
 
 ## Storytelling Generators
