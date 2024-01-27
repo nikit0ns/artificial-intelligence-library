@@ -210,6 +210,7 @@
 - **[Turbologo](https://turbologo.com/) (PAID) - Generate professional logos with options for personalization and high-quality templates.**
 - **[Logopony](https://www.logopony.com/) (PAID) - Create logos like these in seconds.**
 - **[Zoviz](http://zoviz.com/) (PAID) - Generate the dream logo in a few clicks.**
+- **[LogoPicture AI](https://logopictureai.com/) (PAID) - Generate beautiful pictures with your logo in no time thanks to our predefined styles.**
 
 
 ## Storytelling Generators
