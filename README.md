@@ -212,6 +212,7 @@
 - **[Zoviz](http://zoviz.com/) (PAID) - Generate the dream logo in a few clicks.**
 - **[LogoPicture AI](https://logopictureai.com/) (PAID) - Generate beautiful pictures with your logo in no time thanks to our predefined styles.**
 - **[Logolivery](https://logolivery.ai/) (FREEMIUM) - Enables you to create logos by simply entering prompts.**
+- **[Logoai](https://www.logoai.com/) (PAID) - Let AI-powered logo maker generate your new logo and create a brand identity design.**
 
 
 ## Storytelling Generators
