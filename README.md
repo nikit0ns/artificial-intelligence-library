@@ -211,7 +211,7 @@
 - **[Logopony](https://www.logopony.com/) (PAID) - Create logos like these in seconds.**
 - **[Zoviz](http://zoviz.com/) (PAID) - Generate the dream logo in a few clicks.**
 - **[LogoPicture AI](https://logopictureai.com/) (PAID) - Generate beautiful pictures with your logo in no time thanks to our predefined styles.**
-- **[Logolivery](https://logolivery.ai/ (FREEMIUM) - Enables you to create logos by simply entering prompts.**
+- **[Logolivery](https://logolivery.ai/) (FREEMIUM) - Enables you to create logos by simply entering prompts.**
 
 
 ## Storytelling Generators
