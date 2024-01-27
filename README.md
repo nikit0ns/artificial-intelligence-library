@@ -215,6 +215,7 @@
 - **[Logoai](https://www.logoai.com/) (PAID) - Let AI-powered logo maker generate your new logo and create a brand identity design.**
 - **[Stockimg](https://stockimg.ai/) (FREEMIUM) - Enables you to create logos, includin various graphics, from a text.**
 - **[Ideogram](https://ideogram.ai/) (FREE) - An image generator capable of creating logos.**
+- **[Logomakerr](https://logomakerr.ai/) (FREE) - An AI logo creator logos instantly and completely free of charge.**
 
 
 ## Storytelling Generators
