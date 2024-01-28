@@ -200,7 +200,7 @@
 - **[Brandmark](https://brandmark.io/tools/) (PAID) - Generate and enhance your logos in a professional way.**
 - **[Designs AI](https://designs.ai/) (PAID) - Design-focused logo, video, and mockup generator.**
 - **[Unbound AI](https://www.unboundcontent.ai/) (FREEMIUM) - Creation a design for small enterprises, including logos and product images.**
-- **[AIgraphics](https://aigraphics.io/) (FREE) - Online logo and picture creation for free.**
+- **[Pandas Make](https://www.pandasmake.com/) (PAID) - Generate stunning logos in seconds.**
 - **[Make Logo AI](https://makelogoai.com/) (PAID) - A premium excellent logo generator.**
 - **[Looka](https://looka.com/) (FREEMIUM) - Logo creation for your business or website.**
 - **[Logo Diffusion](https://logodiffusion.com/) (FREEMIUM) - Generate logos with AI in a matter of seconds.**
