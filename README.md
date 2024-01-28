@@ -205,7 +205,7 @@
 - **[Looka](https://looka.com/) (FREEMIUM) - Logo creation for your business or website.**
 - **[Logo Diffusion](https://logodiffusion.com/) (FREEMIUM) - Generate logos with AI in a matter of seconds.**
 - **[LogoFast](https://logofa.st/) (FREE) - An AI assistant that makes creating a logo simple.**
-- **[DeepFloyd IF](https://deepfloyd.ai/deepfloyd-if) (FREE) - An image generator that respects the text you input.**
+- **[LogoStoreAI](https://logostoreai.com/) (FREE) - An AI that create SVG logos.**
 - **[Freelogo](https://freelogo.co/) (FREEMIUM) - An effective and adaptable logo creator.**
 - **[Turbologo](https://turbologo.com/) (PAID) - Generate professional logos with options for personalization and high-quality templates.**
 - **[Logopony](https://www.logopony.com/) (PAID) - Create logos like these in seconds.**
@@ -215,7 +215,6 @@
 - **[Logoai](https://www.logoai.com/) (PAID) - Let AI-powered logo maker generate your new logo and create a brand identity design.**
 - **[Stockimg](https://stockimg.ai/) (FREEMIUM) - Enables you to create logos, includin various graphics, from a text.**
 - **[Ideogram](https://ideogram.ai/) (FREE) - An image generator capable of creating logos.**
-- **[Logomakerr](https://logomakerr.ai/) (FREE) - An AI logo creator logos instantly and completely free of charge.**
 - **[Logomakerr](https://logomakerr.ai/) (FREE) - An AI logo creator logos instantly and completely free of charge.**
 
 
