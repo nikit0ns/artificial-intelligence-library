@@ -193,6 +193,7 @@
 - **[Resemble](https://www.resemble.ai/) (FREE) - An AI that can reproduce your voice by reading your text.**
 - **[Murf AI](https://murf.ai/) (PAID) - One of the best voice generators available.**
 - **[Apple Books](https://www.apple.com/apple-books/) (PAID) - An AI that reads your Apple books in a charming voice.**
+- **[Eleven Labs](http://elevenlabs.io/) (FREEMIUM) - Create natural AI voices instantly in any language.**
   
 
 ## Logo Creation
