@@ -201,6 +201,7 @@
 - **[Resemble](https://www.resemble.ai/) (FREE) - Voice generator lets you create realistic human–like voiceovers.**
 - **[Symbl](https://symbl.ai/) (FREE) - An application that instantly converts audio recordings to text.**
 - **[Verbatik](https://verbatik.com/) (PAID) - Instant conversion of text into natural-sounding speech.**
+- **[Voicebooking](https://www.voicebooking.com/en/free-voice-over-generator) (FREE) - A voice generator and multilingual voice assistant.**
   
 
 ## Logo Creation
