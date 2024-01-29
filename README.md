@@ -197,6 +197,7 @@
 - **[NaturalReaders](https://www.naturalreaders.com/) (FREEMIUM) - Text-to-speech with really clear voices.**
 - **[TTSMaker](https://ttsmaker.com/) (FREE) - Tool that provides speech synthesis services and supports multiple languages.**
 - **[Descript](https://www.descript.com/) (FREEMIUM) - A voice reading technology that lets the AI personalize its speech.**
+- **[Wellsaidlabs](https://wellsaidlabs.com/) (FREEMIUM) - Turn your text into voice overs in seconds.**
   
 
 ## Logo Creation
