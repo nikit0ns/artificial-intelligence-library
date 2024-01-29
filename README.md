@@ -200,6 +200,7 @@
 - **[Wellsaidlabs](https://wellsaidlabs.com/) (FREEMIUM) - Turn your text into voice overs in seconds.**
 - **[Resemble](https://www.resemble.ai/) (FREE) - Voice generator lets you create realistic human–like voiceovers.**
 - **[Symbl](https://symbl.ai/) (FREE) - An application that instantly converts audio recordings to text.**
+- **[Verbatik](https://verbatik.com/) (PAID) - Instant conversion of text into natural-sounding speech.**
   
 
 ## Logo Creation
