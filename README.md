@@ -196,6 +196,7 @@
 - **[Eleven Labs](http://elevenlabs.io/) (FREEMIUM) - Create natural AI voices instantly in any language.**
 - **[NaturalReaders](https://www.naturalreaders.com/) (FREEMIUM) - Text-to-speech with really clear voices.**
 - **[TTSMaker](https://ttsmaker.com/) (FREE) - Tool that provides speech synthesis services and supports multiple languages.**
+- **[Descript](https://www.descript.com/) (FREEMIUM) - A voice reading technology that lets the AI personalize its speech.**
   
 
 ## Logo Creation
