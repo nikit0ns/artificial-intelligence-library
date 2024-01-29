@@ -199,6 +199,7 @@
 - **[Descript](https://www.descript.com/) (FREEMIUM) - A voice reading technology that lets the AI personalize its speech.**
 - **[Wellsaidlabs](https://wellsaidlabs.com/) (FREEMIUM) - Turn your text into voice overs in seconds.**
 - **[Resemble](https://www.resemble.ai/) (FREE) - Voice generator lets you create realistic human–like voiceovers.**
+- **[Symbl](https://symbl.ai/) (FREE) - An application that instantly converts audio recordings to text.**
   
 
 ## Logo Creation
