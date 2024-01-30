@@ -185,7 +185,7 @@
 ## Voice Reading
 - **[VoiceOverMaker](https://voiceovermaker.io/) (FREEMIUM) - Convert your text into speech produced by an AI.**
 - **[Coqui](https://coqui.ai/) (FREE) - A traditional voice reader that can easily read your text.**
-- **[Ask My Book](https://askmybook.com/) (FREE) - A speech reader that consults a book library to provide answers to your queries.**
+- **[Listnr](https://listnr.ai/) (PAID) - Create voiceovers with 1000 different voices in over 500 languages.**
 - **[Speechify](https://speechify.com/) (FREEMIUM) - Compose a text and have a well-known voice actor read it.**
 - **[Narration Box](https://narrationbox.com/) (FREEMIUM) - Produce podcasts, voiceovers, narrations, and more.**
 - **[Blubli AI](https://blubi.ai/) (PAID) - Build a chatbot that converses with its user directly.**
@@ -202,6 +202,7 @@
 - **[Symbl](https://symbl.ai/) (FREE) - An application that instantly converts audio recordings to text.**
 - **[Verbatik](https://verbatik.com/) (PAID) - Instant conversion of text into natural-sounding speech.**
 - **[Voicebooking](https://www.voicebooking.com/en/free-voice-over-generator) (FREE) - A voice generator and multilingual voice assistant.**
+- **[Neets](https://neets.ai/) (FREEMIUM) - Create authentic-sounding with high-quality synthetic voices.**
   
 
 ## Logo Creation
@@ -225,7 +226,6 @@
 - **[Stockimg](https://stockimg.ai/) (FREEMIUM) - Enables you to create logos, includin various graphics, from a text.**
 - **[Ideogram](https://ideogram.ai/) (FREE) - An image generator capable of creating logos.**
 - **[Logomakerr](https://logomakerr.ai/) (FREE) - An AI logo creator logos instantly and completely free of charge.**
-- **[Neets](https://neets.ai/) (FREEMIUM) - Create authentic-sounding with high-quality synthetic voices.**
 
 
 ## Storytelling Generators
