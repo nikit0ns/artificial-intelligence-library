@@ -225,6 +225,7 @@
 - **[Stockimg](https://stockimg.ai/) (FREEMIUM) - Enables you to create logos, includin various graphics, from a text.**
 - **[Ideogram](https://ideogram.ai/) (FREE) - An image generator capable of creating logos.**
 - **[Logomakerr](https://logomakerr.ai/) (FREE) - An AI logo creator logos instantly and completely free of charge.**
+- **[Neets](https://neets.ai/) (FREEMIUM) - Create authentic-sounding with high-quality synthetic voices.**
 
 
 ## Storytelling Generators
