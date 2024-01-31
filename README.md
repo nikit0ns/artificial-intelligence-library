@@ -285,9 +285,9 @@
 - **[SyntheticAIdata](https://syntheticaidata.com/) (PAID) - Help in building AI models for your data utilizing 3D models.**
 - **[GPUX AI](https://gpux.ai/) (FREEMIUM) - Employ Docker to run all of your autoscale inferences.**
 - **[Convai](https://www.convai.com/) (FREEMIUM) - Create characters that you may incorporate into your works.**
-- **[AI Data Sidekick](https://www.airops.com/sidekick) (FREEMIUM) - Use SQL code, read documentation, and other tasks with AI.**
+- **[AirOps](https://www.airops.com/) (FREEMIUM) - Use SQL code, read documentation, and other tasks with AI.**
 - **[MixPeek](https://mixpeek.com/) (FREEMIUM) - Increase the engagement rate of your data by adding an AI layer.**
-- **[Vertex AI by Google](https://cloud.google.com/vertex-ai) (FREEMIUM) - Over 130 generative tools on an AI platform that you can use for projects.**
+- **[Vertex AI](https://cloud.google.com/vertex-ai) (FREEMIUM) - Over 130 generative tools on an AI platform that you can use for projects.**
 
 
 ## Healthcare
