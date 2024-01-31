@@ -297,6 +297,7 @@
 - **[Auto Backend](https://www.autobackend.dev/) (FREE) - A program that makes creation backend apps easier.**
 - **[Pre.dev](https://pre.dev/) (FREEMIUM) - An AI generate your software based on your description.**
 - **[Shuttle](https://www.shuttle.rs/ai) (FREE) - Create apps instantly from a single prompt.**
+- **[Gamma](https://gamma.ai/) (PAID) - Enhanced cooperation and data detection with an AI-generated cloud.**
 
 
 ## Healthcare
