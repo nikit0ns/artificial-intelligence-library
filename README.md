@@ -190,14 +190,13 @@
 - **[Narration Box](https://narrationbox.com/) (FREEMIUM) - Produce podcasts, voiceovers, narrations, and more.**
 - **[Blubli AI](https://blubi.ai/) (PAID) - Build a chatbot that converses with its user directly.**
 - **[ReplicaStudios](https://www.replicastudios.com/) (FREEMIUM) - Generate realistic voices for games, movies, and the metaverse.**
-- **[Resemble](https://www.resemble.ai/) (FREE) - An AI that can reproduce your voice by reading your text.**
 - **[Murf AI](https://murf.ai/) (PAID) - One of the best voice generators available.**
 - **[Apple Books](https://www.apple.com/apple-books/) (PAID) - An AI that reads your Apple books in a charming voice.**
 - **[Eleven Labs](http://elevenlabs.io/) (FREEMIUM) - Create natural AI voices instantly in any language.**
 - **[NaturalReaders](https://www.naturalreaders.com/) (FREEMIUM) - Text-to-speech with really clear voices.**
 - **[TTSMaker](https://ttsmaker.com/) (FREE) - Tool that provides speech synthesis services and supports multiple languages.**
 - **[Descript](https://www.descript.com/) (FREEMIUM) - A voice reading technology that lets the AI personalize its speech.**
-- **[Wellsaidlabs](https://wellsaidlabs.com/) (FREEMIUM) - Turn your text into voice overs in seconds.**
+- **[WellSaid Labs](https://wellsaidlabs.com/) (FREEMIUM) - Turn your text into voice overs in seconds.**
 - **[Resemble](https://www.resemble.ai/) (FREE) - Voice generator lets you create realistic human–like voiceovers.**
 - **[Symbl](https://symbl.ai/) (FREE) - An application that instantly converts audio recordings to text.**
 - **[Verbatik](https://verbatik.com/) (PAID) - Instant conversion of text into natural-sounding speech.**
