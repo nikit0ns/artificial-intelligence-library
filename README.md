@@ -190,6 +190,7 @@
 - **[Narration Box](https://narrationbox.com/) (FREEMIUM) - Produce podcasts, voiceovers, narrations, and more.**
 - **[Blubli AI](https://blubi.ai/) (PAID) - Build a chatbot that converses with its user directly.**
 - **[ReplicaStudios](https://www.replicastudios.com/) (FREEMIUM) - Generate realistic voices for games, movies, and the metaverse.**
+- **[Voice Maker](https://voicemaker.in) (FREE) - Convert words into human-sounding voices.**
 - **[Murf AI](https://murf.ai/) (PAID) - One of the best voice generators available.**
 - **[Apple Books](https://www.apple.com/apple-books/) (PAID) - An AI that reads your Apple books in a charming voice.**
 - **[Eleven Labs](http://elevenlabs.io/) (FREEMIUM) - Create natural AI voices instantly in any language.**
