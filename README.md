@@ -288,6 +288,8 @@
 - **[AirOps](https://www.airops.com/) (FREEMIUM) - Use SQL code, read documentation, and other tasks with AI.**
 - **[MixPeek](https://mixpeek.com/) (FREEMIUM) - Increase the engagement rate of your data by adding an AI layer.**
 - **[Vertex AI](https://cloud.google.com/vertex-ai) (FREEMIUM) - Over 130 generative tools on an AI platform that you can use for projects.**
+- **[Kaggle](https://www.kaggle.com/) (FREE) - Provides models, code, forums, ML learning classes, and more.**
+
 
 
 ## Healthcare
