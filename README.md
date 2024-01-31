@@ -292,6 +292,7 @@
 - **[Sagify](https://kenza-ai.github.io/sagify/) (FREE) - A utility for training and deploying LLMs and Machine Learning models.**
 - **[Fluent](https://www.fluenthq.com/) (FREEMIUM) - Helps you explore your data and uncover the questions you should be asking.**
 - **[Runpod](https://www.runpod.io/) (PAID) - Reduce the requirements of resources you need by renting GPU cloud servers.**
+- **[Text to SQL](https://toolske.com/text2sql/) (FREE) - Transform your ideas into SQL queries with ease.**
 
 
 ## Healthcare
