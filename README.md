@@ -296,7 +296,7 @@
 - **[AI Term](https://www.aiterm.net/) (FREE) - Convert natural language into executable commands.**
 - **[Auto Backend](https://www.autobackend.dev/) (FREE) - A program that makes creation backend apps easier.**
 - **[Pre.dev](https://pre.dev/) (FREEMIUM) - An AI generate your software based on your description.**
-- **[Shuttle]https://www.shuttle.rs/ai) (FREE) - Create apps instantly from a single prompt.**
+- **[Shuttle](https://www.shuttle.rs/ai) (FREE) - Create apps instantly from a single prompt.**
 
 
 ## Healthcare
