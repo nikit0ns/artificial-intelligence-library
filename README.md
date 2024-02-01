@@ -245,6 +245,7 @@
 - **[Oscar Stories](https://oscarstories.com/) (PAID) - Create personalized bedtime stories.**
 - **[Nolan](https://www.nolanai.app/) (FREE) - An AI that generate stories, scripts, dialogues, etc.**
 - **[Tiny Storie](https://tinystorie.com/) (FREEMIUM) - Create original children's stories and record them on audio.**
+- **[Fantoons](https://www.fantoons.xyz/) (FREE) - Create and read fan-fiction comics.**
 
 
 ## Code Assistants
