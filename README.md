@@ -247,6 +247,7 @@
 - **[Tiny Storie](https://tinystorie.com/) (FREEMIUM) - Create original children's stories and record them on audio.**
 - **[Fantoons](https://www.fantoons.xyz/) (FREE) - Create and read fan-fiction comics.**
 - **[Rory](https://roryapp.com/) (FREE) - Create fantastic and interesting personalized stories.**
+- **[StoryAI](https://apps.apple.com/gb/app/storyai-ai-generated-stories/id6445949790) (FREEMIUM) - Discover and read stories with various categories.**
 
 
 ## Code Assistants
