@@ -243,6 +243,7 @@
 - **[StoryBooks](https://www.storybooks.app/) (FREE) - Create personalized children's stories.**
 - **[StoryBird](https://www.storybird.ai/) (FREE) - Generate stories for children.**
 - **[Oscar Stories](https://oscarstories.com/) (PAID) - Create personalized bedtime stories.**
+- **[Nolan](https://www.nolanai.app/) (FREE) - An AI that generate stories, scripts, dialogues, etc.**
 
 
 ## Code Assistants
