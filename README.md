@@ -246,6 +246,7 @@
 - **[Nolan](https://www.nolanai.app/) (FREE) - An AI that generate stories, scripts, dialogues, etc.**
 - **[Tiny Storie](https://tinystorie.com/) (FREEMIUM) - Create original children's stories and record them on audio.**
 - **[Fantoons](https://www.fantoons.xyz/) (FREE) - Create and read fan-fiction comics.**
+- **[Rory](https://roryapp.com/) (FREE) - Create fantastic and interesting personalized stories.**
 
 
 ## Code Assistants
