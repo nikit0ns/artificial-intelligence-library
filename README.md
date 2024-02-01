@@ -240,7 +240,8 @@
 - **[Child Book](https://www.childbook.ai/) (PAID) - Generate stories for children with this easy-to-use application.**
 - **[DreamGen](https://dreamgen.com/) (FREEMIUM) - An AI tool to generate characters and tales without restrictions.**
 - **[Stories For Kids](https://www.storiesforkids.ai/) (PAID) - Turn real-life situations into fun stories in seconds.**
-- **[StoryBooks](https://www.storybooks.app/) (FREE) -  Create personalized children's stories.**
+- **[StoryBooks](https://www.storybooks.app/) (FREE) - Create personalized children's stories.**
+- **[StoryBird](https://www.storybird.ai//) (FREE) - Generate stories for children.**
 
 
 ## Code Assistants
