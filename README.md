@@ -286,7 +286,8 @@
 - **[CheckForAI](https://checkforai.com/) (FREE) - Identifies content of AI in your text by examining its content.**
 - **[Doctrina AI](https://www.doctrina.ai/) (FREE) - Support for students and children learning remotely.**
 - **[Mathway](https://www.mathway.com/) (FREEMIUM) - Ask this AI any arithmetic question and receive the answer right away.**
-- **[Smodin](https://smodin.io/) (FREEMIUM) - An effective article writer who is perfect for students**
+- **[Smodin](https://smodin.io/) (FREEMIUM) - An effective article writer who is perfect for students.**
+- **[Deepl](https://www.deepl.com/) (FREE) - The indispensable and excellent translation tool.**
 
 
 ## Developer Tools
