@@ -288,6 +288,7 @@
 - **[Mathway](https://www.mathway.com/) (FREEMIUM) - Ask this AI any arithmetic question and receive the answer right away.**
 - **[Smodin](https://smodin.io/) (FREEMIUM) - An effective article writer who is perfect for students.**
 - **[Deepl](https://www.deepl.com/) (FREE) - The indispensable and excellent translation tool.**
+- **[Duolingo](https://www.duolingo.com/) (FREEMIUM) - Learn a language using AI and enjoy.**
 
 
 ## Developer Tools
