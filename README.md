@@ -291,6 +291,7 @@
 - **[Duolingo](https://www.duolingo.com/) (FREEMIUM) - Learn languages using AI and enjoy.**
 - **[Prezo AI](https://prezo.ai/) (FREEMIUM) - Create professional presentations with AI's assistance.**
 - **[Quizgecko](https://quizgecko.com/) (FREEMIUM) - Automatically generate questions for online quizzes, tests and exams.**
+- **[Moonbeam](https://gomoonbeam.com/) (FREEMIUM) - An AI writer that writes automatically and specializes in lengthy essays.**
 
 
 ## Developer Tools
