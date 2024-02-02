@@ -293,6 +293,7 @@
 - **[Quizgecko](https://quizgecko.com/) (FREEMIUM) - Automatically generate questions for online quizzes, tests and exams.**
 - **[Moonbeam](https://gomoonbeam.com/) (FREEMIUM) - An AI writer that writes automatically and specializes in lengthy essays.**
 - **[Bookabout](https://bookabout.io/) (FREE) - Find your favorite books by describing your idea.**
+- **[StudyCrumb](https://studycrumb.com/paraphrasing-tool) (FREE) - Free paraphrasing tool for essays.**
 
 
 ## Developer Tools
