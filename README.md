@@ -292,6 +292,7 @@
 - **[Prezo AI](https://prezo.ai/) (FREEMIUM) - Create professional presentations with AI's assistance.**
 - **[Quizgecko](https://quizgecko.com/) (FREEMIUM) - Automatically generate questions for online quizzes, tests and exams.**
 - **[Moonbeam](https://gomoonbeam.com/) (FREEMIUM) - An AI writer that writes automatically and specializes in lengthy essays.**
+- **[Bookabout](https://bookabout.io/) (FREE) - Find your favorite books by describing your idea.**
 
 
 ## Developer Tools
