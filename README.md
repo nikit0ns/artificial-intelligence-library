@@ -294,6 +294,7 @@
 - **[Moonbeam](https://gomoonbeam.com/) (FREEMIUM) - An AI writer that writes automatically and specializes in lengthy essays.**
 - **[Bookabout](https://bookabout.io/) (FREE) - Find your favorite books by describing your idea.**
 - **[StudyCrumb](https://studycrumb.com/paraphrasing-tool) (FREE) - Free paraphrasing tool for essays.**
+- **[Codeamigo](https://codeamigo.dev/) (FREE) - Short courses and tutorials can help you learn to code fast and effectively.**
 
 
 ## Developer Tools
