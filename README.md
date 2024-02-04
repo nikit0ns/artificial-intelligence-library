@@ -346,3 +346,4 @@
 - **[Paperclips](https://www.paperclips.app/) (PAID) - Helps students study and get ready for exams.**
 - **[Mem AI](https://mem.ai/) (FREEMIUM) - An AI notes app that keeps you organized.**
 - **[Rewind](https://www.rewind.ai/) (FREEMIUM) - Look up whatever you could have heard or seen as a result of a prompt.**
+- **[QuizLet](https://quizlet.com/) (FREE) - Easily memorize difficult subjects with flashcards and practice tests.**
