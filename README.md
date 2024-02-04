@@ -348,3 +348,4 @@
 - **[Rewind](https://www.rewind.ai/) (FREEMIUM) - Look up whatever you could have heard or seen as a result of a prompt.**
 - **[QuizLet](https://quizlet.com/) (FREE) - Easily memorize difficult subjects with flashcards and practice tests.**
 - **[MyMind](https://mymind.com/) (PAID) - Organizes, categorizes, and takes notes to ensure you don't forget anything.**
+- **[Memoru](https://memoru.io/) (FREE) - Memorize any subject with flashcards.**
