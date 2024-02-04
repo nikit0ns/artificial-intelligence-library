@@ -340,7 +340,7 @@
 - **[Sana Labs](https://www.sanalabs.com/) (PAID) - Automate your company's operations with a cooperative AI platform.**
 - **[Heyday](https://heyday.xyz/) (PAID) - An AI that keeps track of the things you need to remember automatically.**
 - **[Metkagram](https://metkagram.app/) (FREEMIUM) - An AI that keeps track of the things you need to remember automatically.**
-- **[Talknotes](https://talknotes.io/) (FREE) - Records everything you say in handwritten notes.**
+- **[TalkNotes](https://talknotes.io/) (FREE) - Records everything you say in handwritten notes.**
 - **[Penseum](https://www.penseum.com/) (FREE) - Organize and evaluate academic information using this AI tool to improve your study.**
 - **[Slay School](https://www.slayschool.com/) (FREEMIUM) - Create flashcards or quizzes using lecture notes to aid in your productive study.**
 - **[Paperclips](https://www.paperclips.app/) (PAID) - Helps students study and get ready for exams.**
