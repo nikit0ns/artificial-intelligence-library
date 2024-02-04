@@ -344,3 +344,4 @@
 - **[Penseum](https://www.penseum.com/) (FREE) - Organize and evaluate academic information using this AI tool to improve your study.**
 - **[Slay School](https://www.slayschool.com/) (FREEMIUM) - Create flashcards or quizzes using your lecture notes to aid in your productive study.**
 - **[Paperclips](https://www.paperclips.app/) (PAID) - Helps students study and get ready for exams.**
+- **[Mem AI](https://mem.ai/) (FREEMIUM) - An AI notes app that keeps you organized.**
