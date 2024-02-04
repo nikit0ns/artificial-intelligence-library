@@ -335,6 +335,7 @@
 - **[Ubie](https://ubiehealth.com/) (FREE) - Analyzes your symptoms and looks for possible reasons.**
 - **[Lavo AI](https://www.lavo.ai/) (PAID) - Tools and software for the medical and pharmaceutical industries.**
 - **[Skinive](https://skinive.com/) (PAID) - Take care of your skin health.**
+- **[Yesil Health](https://yesilhealth.com/) (FREEMIUM) - Simply ask your health questions and receive evidence-based answers.**
 
 
 # Memory
