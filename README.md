@@ -248,7 +248,7 @@
 - **[Fantoons](https://www.fantoons.xyz/) (FREE) - Create and read fan-fiction comics.**
 - **[Rory](https://roryapp.com/) (FREE) - Create fantastic and interesting personalized stories.**
 - **[StoryAI](https://apps.apple.com/gb/app/storyai-ai-generated-stories/id6445949790) (FREEMIUM) - Discover and read stories with various categories.**
-- **[PicTales](https://pictales.online/) (FREEMIUM) - Generate Stories from your favourite images.**
+- **[PicTales](https://pictales.online/) (FREEMIUM) - Generate stories from your favourite images.**
 
 
 ## Code Assistants
