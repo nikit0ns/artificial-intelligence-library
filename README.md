@@ -342,7 +342,7 @@
 - **[Metkagram](https://metkagram.app/) (FREEMIUM) - An AI that keeps track of the things you need to remember automatically.**
 - **[Talknotes](https://talknotes.io/) (FREE) - Records everything you say in handwritten notes.**
 - **[Penseum](https://www.penseum.com/) (FREE) - Organize and evaluate academic information using this AI tool to improve your study.**
-- **[Slay School](https://www.slayschool.com/) (FREEMIUM) - Create flashcards or quizzes using your lecture notes to aid in your productive study.**
+- **[Slay School](https://www.slayschool.com/) (FREEMIUM) - Create flashcards or quizzes using lecture notes to aid in your productive study.**
 - **[Paperclips](https://www.paperclips.app/) (PAID) - Helps students study and get ready for exams.**
 - **[Mem AI](https://mem.ai/) (FREEMIUM) - An AI notes app that keeps you organized.**
 - **[Rewind](https://www.rewind.ai/) (FREEMIUM) - Look up whatever you could have heard or seen as a result of a prompt.**
