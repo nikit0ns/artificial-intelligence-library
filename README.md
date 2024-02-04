@@ -332,6 +332,7 @@
 - **[SymptomChecker IO](https://symptomchecker.io/) (FREE) - Find a diagnosis online based on your symptoms.**
 - **[Cradle](https://cradle.bio/) (PAID) - An AI tool to help scientists quickly and efficiently construct proteins.**
 - **[Be My Eyes](https://www.bemyeyes.com/) (PAID) - Сonnects people needing sighted support with volunteers through live video and an AI.**
+- **[Ubie](https://ubiehealth.com/) (FREE) - Analyzes your symptoms and looks for possible reasons.**
 
 
 # Memory
