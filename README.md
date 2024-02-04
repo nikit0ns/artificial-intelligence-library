@@ -334,6 +334,7 @@
 - **[Be My Eyes](https://www.bemyeyes.com/) (PAID) - Сonnects people needing sighted support with volunteers through live video and an AI.**
 - **[Ubie](https://ubiehealth.com/) (FREE) - Analyzes your symptoms and looks for possible reasons.**
 - **[Lavo AI](https://www.lavo.ai/) (PAID) - Tools and software for the medical and pharmaceutical industries.**
+- **[Skinive](https://skinive.com/) (PAID) - Take care of your skin health.**
 
 
 # Memory
