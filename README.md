@@ -359,3 +359,4 @@
 - **[QuizLet](https://quizlet.com/) (FREE) - Easily memorize difficult subjects with flashcards and practice tests.**
 - **[MyMind](https://mymind.com/) (PAID) - Organizes, categorizes, and takes notes to ensure you don't forget anything.**
 - **[Memoru](https://memoru.io/) (FREE) - Memorize any subject with flashcards.**
+- **[AI Diary](https://aidiary.io/) (FREEMIUM) - Personalized digital diary with growth tracking.**
