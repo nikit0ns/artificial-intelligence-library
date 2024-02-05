@@ -360,3 +360,4 @@
 - **[MyMind](https://mymind.com/) (PAID) - Organizes, categorizes, and takes notes to ensure you don't forget anything.**
 - **[Memoru](https://memoru.io/) (FREE) - Memorize any subject with flashcards.**
 - **[AI Diary](https://aidiary.io/) (FREEMIUM) - Personalized digital diary with growth tracking.**
+- **[Memos AI](https://apps.microsoft.com/detail/9PP8DL2QTJSG?hl=uk-ua&gl=US) (FREEMIUM) - A note-taking tool that offers highly accurate transcriptions for recording lectures.**
