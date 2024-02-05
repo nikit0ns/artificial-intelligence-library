@@ -337,6 +337,7 @@
 - **[Skinive](https://skinive.com/) (PAID) - Take care of your skin health.**
 - **[Yesil Health](https://yesilhealth.com/) (FREEMIUM) - Simply ask your health questions and receive evidence-based answers.**
 - **[Mentalyc](https://www.mentalyc.com/) (PAID) - An innovative AI progress notes generation tool for psychotherapists.**
+- **[Upheal](https://www.upheal.io/) (FREE) - Platform for mental health professionals with automated notes and analytics.**
 
 
 # Memory
