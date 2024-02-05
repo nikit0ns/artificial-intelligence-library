@@ -361,4 +361,5 @@
 - **[Memoru](https://memoru.io/) (FREE) - Memorize any subject with flashcards.**
 - **[AI Diary](https://aidiary.io/) (FREEMIUM) - Personalized digital diary with growth tracking.**
 - **[Memos AI](https://apps.microsoft.com/detail/9PP8DL2QTJSG?hl=uk-ua&gl=US) (FREEMIUM) - A note-taking tool that offers highly accurate transcriptions for recording lectures.**
-- **[Receipt AI](https://receipt-ai.com/) (PAID) - An AI-powered tool for managing receipts with text messages..**
+- **[Receipt AI](https://receipt-ai.com/) (PAID) - An AI-powered tool for managing receipts with text messages.**
+- **[Prompta](https://www.prompta.dev/) (FREE) - An open-source UI client designed for communicating with ChatGPT.**
