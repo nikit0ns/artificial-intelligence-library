@@ -20,7 +20,7 @@
 - **[Storytelling Generators](#storytelling-generators)**
 - **[Code Assistants](#code-assistants)**
 - **[Education](#education)**
-- **[Developer Tools](#developer-tools)**
+- :hammer_and_wrench: **[Developer Tools](#hammer-and-wrench-developer-tools)**
 - :stethoscope: **[Healthcare](#stethoscope-healthcare)**
 - :brain: **[Memory](#brain-memory)**
 
@@ -297,7 +297,7 @@
 - **[Codeamigo](https://codeamigo.dev/) (FREE) - Short courses and tutorials can help you learn to code fast and effectively.**
 
 
-## Developer Tools
+## :hammer_and_wrench: Developer Tools
 - **[Mintlify](https://mintlify.com/) (FREEMIUM) - Automatic generation documentation for your projects.**
 - **[Teachable Machine](https://teachablemachine.withgoogle.com/) (FREE) - Explore and create new AI without having to write any code.**
 - **[PromptLayer](https://promptlayer.com/) (FREE) - Analyze and arrange your OpenAI GPT prompts.**
@@ -343,7 +343,7 @@
 - **[Facial Assessment Tool](https://qoves.com/facial-assessment-tool) (FREE) - Improve your appearance and skin health.**
 
 
-# :brain: Memory
+## :brain: Memory
 - **[Reflect AI](https://reflect.app/) (FREEMIUM) - Use AI to improve your writing and taking notes skills.**
 - **[Glasp](https://glasp.co/ai-writing) (FREE) - Generate engaging material for newsletters and other online publications.**
 - **[Personal AI](https://www.personal.ai/) (FREEMIUM) - An AI tool for quickly coming up with fresh notions and ideas.**
