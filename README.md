@@ -12,7 +12,7 @@
 - **[AI Chat & Assistants](#ai-chat--assistants)**
 - **[Writing & Web SEO](#writing--web-seo)**
 - **[Image Editing](#image-editing)** 
-- **[Video Generators](#video-generators)** 
+- :film_projector: **[Video Generators](#film_projector-video-generators)** 
 - **[Audio Editing](#audio-editing)**
 - **[Music Creation](#music-creation)**
 - **[Voice Reading](#voice-reading)**
