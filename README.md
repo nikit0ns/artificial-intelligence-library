@@ -22,7 +22,7 @@
 - **[Education](#education)**
 - **[Developer Tools](#developer-tools)**
 - **[Healthcare](#healthcare)**
-- **[Memory](#memory)**
+- **[Memory](#-memory)**
 
 ## Image & Drawings
 - **[MidJourney](https://midjourney.com/) (FREEMIUM) - Strong image generation based on text description.**
