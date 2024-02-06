@@ -114,7 +114,7 @@
 - **[Recraft](https://www.recraft.ai/) (FREE) - An AI is simple to generate and edit vector graphics, icons, and 3D representations.**
 
 
-## Video Generators
+## :film_projector: Video Generators
 - **[Studio D-ID](https://studio.d-id.com/) (FREEMIUM) - Generate expert videos using images, text, or audio.**
 - **[Kaiber AI](https://kaiber.ai/) (FREEMIUM) - Allow AI's creativity to transform your images into amazing videos.**
 - **[Pictory AI](https://pictory.ai//) (FREE) - Create videos instantly, no experience necessary.**
