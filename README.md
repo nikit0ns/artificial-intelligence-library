@@ -159,7 +159,7 @@
 - **[Podcastle](https://podcastle.ai/) (FREE) - An AI-powered automated audio editing.**
 - **[PodStash](https://podstash.ai/) (FREEMIUM) - Transform anything into a podcast.**
 
-## Music Creation
+## :notes: Music Creation
 - **[Voicify AI](https://www.voicify.ai/) (PAID) - Create your very first AI cover by simply changing the voice on any song you choose.**
 - **[Synthesizer V](https://dreamtonics.com/en/synthesizerv/) (FREEMIUM) - An AI powered music creation tool that produces lifelike vocals.**
 - **[Harmonai](https://www.harmonai.org/) (FREE) - An AI that is available for free that can produce endless music.**
