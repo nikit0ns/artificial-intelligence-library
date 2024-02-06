@@ -19,7 +19,7 @@
 - **[Logo Creation](#logo-creation)**
 - **[Storytelling Generators](#storytelling-generators)**
 - **[Code Assistants](#code-assistants)**
-- :books:**[Education](#books-education)**
+- :books: **[Education](#books-education)**
 - :hammer_and_wrench: **[Developer Tools](#hammer_and_wrench-developer-tools)**
 - :stethoscope: **[Healthcare](#stethoscope-healthcare)**
 - :brain: **[Memory](#brain-memory)**
@@ -251,7 +251,7 @@
 - **[PicTales](https://pictales.online/) (FREEMIUM) - Generate stories from your favourite images.**
 
 
-## Code Assistants
+## :desktop_computer: Code Assistants
 - **[Codeium](https://www.codeium.com/) (FREE) - Improve your productivity and code more quickly.**
 - **[Replit AI](https://replit.com/) (FREEMIUM) - Helps you save time and complete your code.**
 - **[Spellbox AI](https://spellbox.app/) (PAID) - Resolves any code issue.**
