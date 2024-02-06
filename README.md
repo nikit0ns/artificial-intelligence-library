@@ -20,7 +20,7 @@
 - **[Storytelling Generators](#storytelling-generators)**
 - **[Code Assistants](#code-assistants)**
 - **[Education](#education)**
-- :hammer_and_wrench: **[Developer Tools](#hammer-and-wrench-developer-tools)**
+- :hammer_and_wrench: **[Developer Tools](#hammer_and_wrench-developer-tools)**
 - :stethoscope: **[Healthcare](#stethoscope-healthcare)**
 - :brain: **[Memory](#brain-memory)**
 
