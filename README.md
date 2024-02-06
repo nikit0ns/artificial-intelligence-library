@@ -91,7 +91,7 @@
 - **[Scribens](https://www.scribens.fr/) (FREE) - A spell checker that looks for mistakes in the text.**
 
 
-## Image Editing
+## :camera_flash: Image Editing
 - **[Pixelhunter](https://pixelhunter.io/) (FREE) - Allow an AI to crop your photos like a designer.**
 - **[Vectorizer AI](https://vectorizer.ai/) (FREE) - Convert your PNG or JPEG photos to SVG vectors quickly and automatically.**
 - **[Clipdrop](https://clipdrop.co/) (FREEMIUM) - A toolkit of choice for quickly producing visually captivating art.**
