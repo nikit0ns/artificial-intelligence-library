@@ -19,7 +19,7 @@
 - **[Logo Creation](#logo-creation)**
 - **[Storytelling Generators](#storytelling-generators)**
 - **[Code Assistants](#code-assistants)**
-- **[Education](#education)**
+- :books-education:**[Education](#education)**
 - :hammer_and_wrench: **[Developer Tools](#hammer_and_wrench-developer-tools)**
 - :stethoscope: **[Healthcare](#stethoscope-healthcare)**
 - :brain: **[Memory](#brain-memory)**
