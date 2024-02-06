@@ -21,8 +21,8 @@
 - **[Code Assistants](#code-assistants)**
 - **[Education](#education)**
 - **[Developer Tools](#developer-tools)**
-- **[Healthcare](#healthcare)**
-- **[Memory](#-memory)**
+- :stethoscope: **[Healthcare](#stethoscope-healthcare)**
+- :brain: **[Memory](#brain-memory)**
 
 ## Image & Drawings
 - **[MidJourney](https://midjourney.com/) (FREEMIUM) - Strong image generation based on text description.**
