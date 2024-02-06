@@ -11,7 +11,7 @@
 - **[Image & Drawings](#image--drawings)**
 - **[AI Chat & Assistants](#ai-chat--assistants)**
 - **[Writing & Web SEO](#writing--web-seo)**
-- **[Image Editing](#image-editing)** 
+- :camera_flash: **[Image Editing](#camera_flash-image-editing)** 
 - :film_projector: **[Video Generators](#film_projector-video-generators)** 
 - **[Audio Editing](#audio-editing)**
 - **[Music Creation](#music-creation)**
