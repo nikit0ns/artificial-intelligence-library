@@ -228,7 +228,7 @@
 - **[Logomakerr](https://logomakerr.ai/) (FREE) - An AI logo creator logos instantly and completely free of charge.**
 
 
-## Storytelling Generators
+## :open_book: Storytelling Generators
 - **[Once Upon A Bot](https://onceuponabot.com/) (PAID) - An AI that creates unique children's stories.**
 - **[What on earth?](https://www.whatonearth.xyz/) (FREE) - With a prompt, this AI creates amazing narratives.**
 - **[StoryWizard](https://www.storywizard.ai/) (FREEMIUM) - Creation of children's stories with pictures and animations.**
