@@ -14,7 +14,7 @@
 - :camera_flash: **[Image Editing](#camera_flash-image-editing)** 
 - :film_projector: **[Video Generators](#film_projector-video-generators)** 
 - **[Audio Editing](#audio-editing)**
-- **[Music Creation](#music-creation)**
+- :notes: **[Music Creation](#notes-music-creation)**
 - **[Voice Reading](#voice-reading)**
 - **[Logo Creation](#logo-creation)**
 - :open_book: **[Storytelling Generators](#open_book-storytelling-generators)**
