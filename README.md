@@ -17,7 +17,7 @@
 - **[Music Creation](#music-creation)**
 - **[Voice Reading](#voice-reading)**
 - **[Logo Creation](#logo-creation)**
-- **[Storytelling Generators](#storytelling-generators)**
+- :open_book: **[Storytelling Generators](#open_book-storytelling-generators)**
 - :desktop_computer: **[Code Assistants](#desktop_computer-code-assistants)**
 - :books: **[Education](#books-education)**
 - :hammer_and_wrench: **[Developer Tools](#hammer_and_wrench-developer-tools)**
