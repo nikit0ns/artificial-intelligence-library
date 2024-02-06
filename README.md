@@ -4,7 +4,7 @@
 
 **If your passion lies in the realm of Artificial Intelligence, you probably understand the complexities linked with pinpointing the premier AIs across diverse domains. In response to this challenge, I have meticulously assembled an extensive catalog of exceptional AI platforms, thoughtfully organized for your convenience.**
 
-**With diligent attention to detail, I have compiled an extensive list of top-tier AI platforms spanning around 15 distinct categories. AI tools list accessible everywhere lists over 100 AIs. It's important to highlight that the range of categories is consistently expanding, mirroring the ongoing evolution of novel aspects within the expansive field of artificial intelligence.**
+**With diligent attention to detail, I have compiled an extensive list of top-tier AI platforms spanning around 15 distinct categories. AI tools list accessible everywhere lists over 300 AIs. It's important to highlight that the range of categories is consistently expanding, mirroring the ongoing evolution of novel aspects within the expansive field of artificial intelligence.**
 
 ## Contents
 
