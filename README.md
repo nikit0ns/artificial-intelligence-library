@@ -68,7 +68,7 @@
 - **[StableLM](https://github.com/stability-AI/stableLM/) (FREE) - Potential AI replacement for ChatGPT that is available for free.**
 - **[HeyPi](https://heypi.com/talk) (FREE) - You can engage in free discussion with a chatbot that sounds like ChatGPT.**
 
-## Writing & Web SEO
+## :memo: Writing & Web SEO
 - **[WriteSonic](https://writesonic.com/) (FREEMIUM) - Writing assistant and text content generator for SEO.**
 - **[Grammarly](https://www.grammarly.com/) (FREE) - Create unique, high-quality content.**
 - **[Paraphrasing Tool](https://paraphrasingtool.ai/) (FREEMIUM) - This AI assistant writes and interprets document.**
