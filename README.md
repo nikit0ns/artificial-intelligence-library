@@ -18,7 +18,7 @@
 - **[Voice Reading](#voice-reading)**
 - **[Logo Creation](#logo-creation)**
 - **[Storytelling Generators](#storytelling-generators)**
-- **[Code Assistants](#code-assistants)**
+- :desktop_computer: **[Code Assistants](#desktop_computer-code-assistants)**
 - :books: **[Education](#books-education)**
 - :hammer_and_wrench: **[Developer Tools](#hammer_and_wrench-developer-tools)**
 - :stethoscope: **[Healthcare](#stethoscope-healthcare)**
