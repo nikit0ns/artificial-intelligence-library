@@ -15,7 +15,7 @@
 - :film_projector: **[Video Generators](#film_projector-video-generators)** 
 - :mega: **[Audio Editing](#mega-audio-editing)**
 - :notes: **[Music Creation](#notes-music-creation)**
-- **[Voice Reading](#voice-reading)**
+- :studio_microphone: **[Voice Reading](#studio_microphone-voice-reading)**
 - **[Logo Creation](#logo-creation)**
 - :open_book: **[Storytelling Generators](#open_book-storytelling-generators)**
 - :desktop_computer: **[Code Assistants](#desktop_computer-code-assistants)**
