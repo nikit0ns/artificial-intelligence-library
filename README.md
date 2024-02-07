@@ -9,7 +9,7 @@
 ## Contents
 
 - :art: **[Image & Drawings](#art-image--drawings)**
-- **[AI Chat & Assistants](#ai-chat--assistants)**
+- :computer: **[AI Chat & Assistants](#computer-ai-chat--assistants)**
 - :memo: **[Writing & Web SEO](#memo-writing--web-seo)**
 - :camera_flash: **[Image Editing](#camera_flash-image-editing)** 
 - :film_projector: **[Video Generators](#film_projector-video-generators)** 
@@ -46,7 +46,7 @@
 - **[AnimeAI App](https://animeai.app/) (PAID) - Generate anime-style avatars from one of your images, with a variety of custom styles.** 
 - **[Image Mixer](https://huggingface.co/spaces/lambdalabs/image-mixer-demo) (FREE) - Combine different images to create a completely new illustration.** 
 
-## AI Chat & Assistants
+## :computer: AI Chat & Assistants
 - **[ChatGPT](https://chat.openai.com/) (FREE) - The most popular conversational assistant in the world.**
 - **[Bard AI](https://bard.google.com/) (FREE) - A potential competitor for the AI ChatGPT.**
 - **[Microsoft Bing](https://www.bing.com/new) (FREE) - ChatGPT AI-powered the new Bing search engine.**
