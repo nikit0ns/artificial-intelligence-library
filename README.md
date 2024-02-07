@@ -13,7 +13,7 @@
 - :memo: **[Writing & Web SEO](#memo-writing--web-seo)**
 - :camera_flash: **[Image Editing](#camera_flash-image-editing)** 
 - :film_projector: **[Video Generators](#film_projector-video-generators)** 
-- **[Audio Editing](#audio-editing)**
+- :mega: **[Audio Editing](#mega-audio-editing)**
 - :notes: **[Music Creation](#notes-music-creation)**
 - **[Voice Reading](#voice-reading)**
 - **[Logo Creation](#logo-creation)**
