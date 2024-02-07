@@ -8,7 +8,7 @@
 
 ## Contents
 
-- :framed_picture: **[Image & Drawings](#framed_picture-image--drawings)**
+- :art: **[Image & Drawings](#art-image--drawings)**
 - **[AI Chat & Assistants](#ai-chat--assistants)**
 - :memo: **[Writing & Web SEO](#memo-writing--web-seo)**
 - :camera_flash: **[Image Editing](#camera_flash-image-editing)** 
@@ -16,7 +16,7 @@
 - :mega: **[Audio Editing](#mega-audio-editing)**
 - :notes: **[Music Creation](#notes-music-creation)**
 - :studio_microphone: **[Voice Reading](#studio_microphone-voice-reading)**
-- **[Logo Creation](#logo-creation)**
+- :framed_picture: **[Logo Creation](#framed_picture-logo-creation)**
 - :open_book: **[Storytelling Generators](#open_book-storytelling-generators)**
 - :desktop_computer: **[Code Assistants](#desktop_computer-code-assistants)**
 - :books: **[Education](#books-education)**
@@ -24,7 +24,7 @@
 - :stethoscope: **[Healthcare](#stethoscope-healthcare)**
 - :brain: **[Memory](#brain-memory)**
 
-## :framed_picture: Image & Drawings
+## :art: Image & Drawings
 - **[MidJourney](https://midjourney.com/) (FREEMIUM) - Strong image generation based on text description.**
 - **[Stable Diffusion](https://stablediffusionweb.com/) (FREE) - An open-source, free image generator that supports templates.**
 - **[Adobe Firefly](https://firefly.adobe.com/) (FREE) - A large selection of high-quality templates and tools for editing or generating images.**
@@ -205,7 +205,7 @@
 - **[Neets](https://neets.ai/) (FREEMIUM) - Create authentic-sounding with high-quality synthetic voices.**
   
 
-## Logo Creation
+## :framed_picture: Logo Creation
 - **[Namecheap](https://www.namecheap.com/logo-maker/) (FREE) - A free and simple online tool for creating logos.**
 - **[Brandmark](https://brandmark.io/tools/) (PAID) - Generate and enhance your logos in a professional way.**
 - **[Designs AI](https://designs.ai/) (PAID) - Design-focused logo, video, and mockup generator.**
