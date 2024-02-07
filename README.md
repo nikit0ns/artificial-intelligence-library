@@ -8,7 +8,7 @@
 
 ## Contents
 
-- **[Image & Drawings](#image--drawings)**
+- :framed_picture: **[Image & Drawings](#framed_picture-image--drawings)**
 - **[AI Chat & Assistants](#ai-chat--assistants)**
 - :memo: **[Writing & Web SEO](#memo-writing--web-seo)**
 - :camera_flash: **[Image Editing](#camera_flash-image-editing)** 
