@@ -182,7 +182,7 @@
 - **[Ecrett Music](https://ecrettmusic.com/) (FREEMIUM) - Create swiftly compose any type of song.**
 
 
-## Voice Reading
+## :studio_microphone: Voice Reading
 - **[VoiceOverMaker](https://voiceovermaker.io/) (FREEMIUM) - Convert your text into speech produced by an AI.**
 - **[Coqui](https://coqui.ai/) (FREE) - A traditional voice reader that can easily read your text.**
 - **[Listnr](https://listnr.ai/) (PAID) - Create voiceovers with 1000 different voices in over 500 languages.**
