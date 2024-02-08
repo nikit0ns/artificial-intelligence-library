@@ -364,3 +364,9 @@
 - **[Receipt AI](https://receipt-ai.com/) (PAID) - An AI-powered tool for managing receipts with text messages.**
 - **[Prompta](https://www.prompta.dev/) (FREE) - An open-source UI client designed for communicating with ChatGPT.**
 - **[HereAfter](https://www.hereafter.ai/) (FREE) - Preserve memories with an app that interviews you about your life.**
+
+
+## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/partyparrot.gif" width="20" height="20" alt="partyparrot"/> Created by Nikita Kasyanenko
+
+- **Email: nikitakasyanenko2005@gmail.com**
+- **Telegram: [@nikit0ns](https://t.me/nikit0ns)**
