@@ -6,7 +6,7 @@
 
 **Please, follow simple rules before submitting a PR:**
 
-- **Use the following format: - `**[Name](Link) - Description**`**
+- **Use the following format: `- **[Name](Link) - Description**`**
 - **Check your spelling and grammar.**
 - **Choose the appropriate corresponding section.**
 - **The list, after your addition, should be sorted alphabetically.**
