@@ -6,7 +6,7 @@
 
 **With diligent attention to detail, I have compiled an extensive list of top-tier AI platforms spanning around 15 distinct categories. AI tools list accessible everywhere lists over 300 AIs. It's important to highlight that the range of categories is consistently expanding, mirroring the ongoing evolution of novel aspects within the expansive field of artificial intelligence.**
 
-**Please, see [this guide](https://github.com/nikit0ns/awesome-artificial-intelligence/blob/master/CONTRIBUTING.md), if you want to contribute to Awesome Artificial Intelligenc list.**
+**Please, see [this guide](https://github.com/nikit0ns/awesome-artificial-intelligence/blob/master/CONTRIBUTING.md), if you want to contribute to Awesome Artificial Intelligence list.**
 
 ## Contents
 
