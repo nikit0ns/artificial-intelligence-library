@@ -2,7 +2,7 @@
 
 **You want to contribute to the Awesome Artificial Intelligence? That's great news!**
 
-**Please, fork this repository and create a PR to the [Pull Request Template](https://github.com/nikit0ns/awesome-artificial-intelligence/blob/master/.github/Pull_Request_Template.md) branch of this repository.**
+**Please, fork this repository and create a PR to the [Pull Request Template](https://github.com/nikit0ns/artificial-intelligence-library/blob/master/.github/Pull_Request_Template.md) branch of this repository.**
 
 **Please, follow simple rules before submitting a PR:**
 
