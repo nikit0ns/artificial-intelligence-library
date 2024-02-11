@@ -2,11 +2,11 @@
 
 # Awesome Artificial Intelligence (AI) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**If your passion lies in the realm of Artificial Intelligence, you probably understand the complexities linked with pinpointing the premier AIs across diverse domains. In response to this challenge, I have meticulously assembled an extensive catalog of exceptional AI platforms, thoughtfully organized for your convenience.**
+**Якщо ви захоплені сферою Штучного Інтелекту, ви, мабуть, розумієте складнощі, пов'язані з пошуком найкращих ШІ в різних галузях. Тому я ретельно зібрав велику добірку унікальних платформ ШІ, продумано організований для вашої зручності.**
 
-**With diligent attention to detail, I have compiled an extensive list of top-tier AI platforms spanning around 15 distinct categories. AI tools list accessible everywhere lists over 300 AIs. It's important to highlight that the range of categories is consistently expanding, mirroring the ongoing evolution of novel aspects within the expansive field of artificial intelligence.**
+**З ретельною увагою до деталей я склав велику добірку популярних платформ ШІ, що охоплює 15 різних категорій. Добірка інструментів ШІ, доступних всюди, налічує понад 300 інструментів. Важливо підкреслити, що кількість категорій постійно розширюється, відображаючи постійну появу нових напрямків у сфері ШІ.**
 
-**Please, see [this guide](https://github.com/nikit0ns/awesome-artificial-intelligence/blob/master/CONTRIBUTING.md), if you want to contribute to Awesome Artificial Intelligenc list.**
+**Будь ласка, ознайомтеся з [цим довідником](https://github.com/nikit0ns/awesome-artificial-intelligence/blob/master/CONTRIBUTING.md), якщо ви хочете зробити свій внесок у добірку Awesome Artificial Intelligence.**
 
 ## Contents
 
