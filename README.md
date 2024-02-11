@@ -4,7 +4,7 @@
 
 **If your passion lies in the realm of Artificial Intelligence, you probably understand the complexities linked with pinpointing the premier AIs across diverse domains. In response to this challenge, I have meticulously assembled an extensive library of exceptional AI platforms, thoughtfully organized for your convenience.**
 
-**With diligent attention to detail, I have compiled an extensive ;ibrary of top-tier AI platforms spanning around 15 distinct categories. AI tools list accessible everywhere lists over 300 AIs. It's important to highlight that the range of categories is consistently expanding, mirroring the ongoing evolution of novel aspects within the expansive field of Artificial Intelligence.**
+**With diligent attention to detail, I have compiled an extensive library of top-tier AI platforms spanning around 15 distinct categories. AI tools list accessible everywhere lists over 300 AIs. It's important to highlight that the range of categories is consistently expanding, mirroring the ongoing evolution of novel aspects within the expansive field of Artificial Intelligence.**
 
 **Please, see [this guide](https://github.com/nikit0ns/artificial-intelligence-library/blob/master/CONTRIBUTING.md), if you want to contribute to Artificial Intelligence Library.**
 
