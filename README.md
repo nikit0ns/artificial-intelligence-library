@@ -25,7 +25,7 @@
 - :hammer_and_wrench: **[Developer Tools](#hammer_and_wrench-developer-tools)**
 - :stethoscope: **[Healthcare](#stethoscope-healthcare)**
 - :brain: **[Memory](#brain-memory)**
-- **[Social Networks](#social-networks)**
+- :globe_with_meridians: **[Social Networks](#social-networks)**
 
 ## :art: Image & Drawings
 - **[MidJourney](https://midjourney.com/) (FREEMIUM) - Strong image generation based on text description.**
@@ -369,4 +369,4 @@
 - **[HereAfter](https://www.hereafter.ai/) (FREE) - Preserve memories with an app that interviews you about your life.**
 
 
-## Social Networks
+## :globe_with_meridians: Social Networks
