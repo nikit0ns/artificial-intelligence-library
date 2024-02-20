@@ -380,3 +380,4 @@
 - **[Clips AI](https://www.clipsai.com/) (FREEMIUM) - Short your videos ideal for social networks.**
 - **[Typeface AI](https://www.typeface.ai/) (PAID) - Automatically generates visual content.**
 - **[Social Studio AI](https://www.socialstudio.ai/) (FREEMIUM) - Automate your Instagram content creation, designs, and posting.**
+- **[Taggy](https://www.taggyai.com/) (FREE) - Generate engaging captions and quotes based on your picture content.**
