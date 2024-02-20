@@ -378,3 +378,4 @@
 - **[Postly](https://www.postly.ai/) (FREEMIUM) - A range of AI for social media campaigns.**
 - **[FeedHive](https://www.feedhive.com/) (FREEMIUM) - Organize and produce content for social networks automatically.**
 - **[Clips AI](https://www.clipsai.com/) (FREEMIUM) - Short your videos ideal for social networks.**
+- **[Typeface AI](https://www.typeface.ai/) (PAID) - Automatically generates visual content.**
