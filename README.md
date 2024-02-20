@@ -384,3 +384,4 @@
 - **[Devi](https://ddevi.com/) (PAID) - Monitor keywords to find leads and outreach using AI.**
 - **[Vidyo AI](https://vidyo.ai/) (PAID) - Make short clips from long videos.**
 - **[PostNitro](https://postnitro.ai/) (FREEMIUM) - Generate a carousel for social networks.**
+- **[Waverly](https://waverly.social/) (FREEMIUM) - Keeps you from becoming distracted while working or focusing**
