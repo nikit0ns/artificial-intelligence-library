@@ -386,3 +386,4 @@
 - **[PostNitro](https://postnitro.ai/) (FREEMIUM) - Generate a carousel for social networks.**
 - **[Waverly](https://waverly.social/) (FREEMIUM) - Keeps you from becoming distracted while working or focusing.**
 - **[CaptionIt](https://www.captionit.ai/) (FREEMIUM) - Create smart images captions instantly.**
+- **[BrandBastion Lite](https://www.brandbastion.com/lite) (FREEMIUM) - Moderate the comments on your social networks.**
