@@ -371,3 +371,4 @@
 
 ## :globe_with_meridians: Social Networks
 - **[TwitterBio](https://www.twitterbio.com/) (FREE) - Generate your next Twitter bio using ChatGPT.**
+- **[TubeMagic](https://tubemagic.com/) (PAID) - Get more subscribers and views on YouTube using our suite of AI tools.**
