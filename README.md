@@ -377,3 +377,4 @@
 - **[Profil Picture AI](https://www.profilepicture.ai/) (PAID) - Generate the beautiful profile picture for your social networks.**
 - **[Postly](https://www.postly.ai/) (FREEMIUM) - A range of AI for social media campaigns.**
 - **[FeedHive](https://www.feedhive.com/) (FREEMIUM) - Organize and produce content for social networks automatically.**
+- **[Clips AI](https://www.clipsai.com/) (FREEMIUM) - Short your videos ideal for social networks.**
