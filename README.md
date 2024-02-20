@@ -383,3 +383,4 @@
 - **[Taggy](https://www.taggyai.com/) (FREE) - Generate engaging captions and quotes based on your picture content.**
 - **[Devi](https://ddevi.com/) (PAID) - Monitor keywords to find leads and outreach using AI.**
 - **[Vidyo AI](https://vidyo.ai/) (PAID) - Make short clips from long videos.**
+- **[PostNitro](https://postnitro.ai/) (FREEMIUM) - Generate a carousel for social networks.**
