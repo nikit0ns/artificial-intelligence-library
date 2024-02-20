@@ -388,3 +388,4 @@
 - **[CaptionIt](https://www.captionit.ai/) (FREEMIUM) - Create smart images captions instantly.**
 - **[BrandBastion Lite](https://www.brandbastion.com/lite) (FREEMIUM) - Moderate the comments on your social networks.**
 - **[Ocoya](https://www.ocoya.net/) (FREEMIUM) - Produce marketing content for your social networks.**
+- **[InstaSalesAI](https://instasalesai.com/) (FREEMIUM) - Transform your social media account into a sales machine.**
