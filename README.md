@@ -374,4 +374,5 @@
 - **[TubeMagic](https://tubemagic.com/) (PAID) - Get more subscribers and views on YouTube using our suite of AI tools.**
 - **[Viral Post Generator](https://viralpostgenerator.taplio.com/) (FREE) - Create well-received content on LinkedIn.**
 - **[SuperMeme](https://www.supermeme.ai/) (FREE) - Turn text into memes.**
-- **[Profil Picture AI](https://www.profilepicture.ai/) (PAID) - Generate the beautiful profile picture for your social networks**
+- **[Profil Picture AI](https://www.profilepicture.ai/) (PAID) - Generate the beautiful profile picture for your social networks.**
+- **[Postly](https://www.postly.ai/) (FREEMIUM) - A range of AI for social media campaigns.**
