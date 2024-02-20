@@ -382,3 +382,4 @@
 - **[Social Studio AI](https://www.socialstudio.ai/) (FREEMIUM) - Automate your Instagram content creation, designs, and posting.**
 - **[Taggy](https://www.taggyai.com/) (FREE) - Generate engaging captions and quotes based on your picture content.**
 - **[Devi](https://ddevi.com/) (PAID) - Monitor keywords to find leads and outreach using AI.**
+- **[Vidyo AI](https://vidyo.ai/) (PAID) - Make short clips from long videos.**
