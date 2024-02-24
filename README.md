@@ -379,7 +379,7 @@
 - **[FeedHive](https://www.feedhive.com/) (FREEMIUM) - Organize and produce content for social networks automatically.**
 - **[Clips AI](https://www.clipsai.com/) (FREEMIUM) - Short your videos ideal for social networks.**
 - **[Typeface AI](https://www.typeface.ai/) (PAID) - Automatically generates visual content.**
-- **[Social Studio AI](https://www.socialstudio.ai/) (FREEMIUM) - Automate your Instagram content creation, designs, and posting.**
+- **[Social Studio](https://www.socialstudio.ai/) (FREEMIUM) - Automate your Instagram content creation, designs, and posting.**
 - **[Taggy](https://www.taggyai.com/) (FREE) - Generate engaging captions and quotes based on your picture content.**
 - **[Devi](https://ddevi.com/) (PAID) - Monitor keywords to find leads and outreach using AI.**
 - **[Vidyo AI](https://vidyo.ai/) (PAID) - Make short clips from long videos.**
