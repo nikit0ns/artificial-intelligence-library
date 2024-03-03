@@ -125,6 +125,7 @@
 - **[FILM](https://replicate.com/google-research/frame-interpolation) (FREE) - Create motion movies from one of your images.**
 - **[Opus](https://opus.ai/) (PAID) - This AI will transform a written description into a video game or movie.**
 - **[Steve AI](https://www.steve.ai/) (FREEMIUM) - Generate videos for every social media platform.**
+- **[Captions](https://www.captions.ai/) (FREEMIUM) - Your AI-powered creative studio.**
 - **[ArtFlow AI](https://artflow.ai/) (FREE) - Creating animated video, images, or avatars.**
 - **[Zeroscope AI](https://huggingface.co/cerspense/zeroscope_v2_XL) (FREE) - An amazing text-to-video generator that can create short, naturalistic videos.**
 - **[AI Reality](https://aireality.tech/) (PAID) - Generates virtual reality using text.**
