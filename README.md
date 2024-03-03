@@ -120,7 +120,8 @@
 ## :film_projector: Video Generators
 - **[Studio D-ID](https://studio.d-id.com/) (FREEMIUM) - Generate expert videos using images, text, or audio.**
 - **[Kaiber AI](https://kaiber.ai/) (FREEMIUM) - Allow AI's creativity to transform your images into amazing videos.**
-- **[Pictory AI](https://pictory.ai//) (FREE) - Create videos instantly, no experience necessary.**
+- **[Pictory AI](https://pictory.ai/) (FREE) - Create videos instantly, no experience necessary.**
+- **[Invideo AI](https://invideo.io/) (FREEMIUM) - It generates a script, creates scenes, adds voiceovers, an tweaks the video at your command.**
 - **[FILM](https://replicate.com/google-research/frame-interpolation) (FREE) - Create motion movies from one of your images.**
 - **[Opus](https://opus.ai/) (PAID) - This AI will transform a written description into a video game or movie.**
 - **[Steve AI](https://www.steve.ai/) (FREEMIUM) - Generate videos for every social media platform.**
