@@ -115,6 +115,7 @@
 - **[Imagecolorizer](https://imagecolorizer.com/) (FREE) - Find your memories again by adding color to your previously colorless photos.**
 - **[GetBetterPics](https://www.getbetterpics.com/) (PAID) - Creates high-quality images quickly and in a variety of styles for social media.**
 - **[Recraft](https://www.recraft.ai/) (FREE) - An AI is simple to generate and edit vector graphics, icons, and 3D representations.**
+- **[VectorMind AI](https://www.vectormind.io/) (FREEMIUM) - Generate high quality vector graphics in seconds with AI.**
 
 
 ## :film_projector: Video Generators
