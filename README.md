@@ -92,6 +92,8 @@
 - **[Great Headlines](https://greatheadlines.ai/) (FREE) - An AI that quickly creates attention-grabbing headlines is perfect for copywriters.**
 - **[Trolly](https://trolly.ai/) (FREEMIUM) - A collection of resources to help write SEO content more quickly.**
 - **[Scribens](https://www.scribens.fr/) (FREE) - A spell checker that looks for mistakes in the text.**
+- **[Serplux](https://serplux.com/) (FREEMIUM) - Writing assistant and text content generator for SEO.**
+- 
 
 
 ## :camera_flash: Image Editing
