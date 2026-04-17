@@ -324,6 +324,8 @@
 - **[Pre.dev](https://pre.dev/) (FREEMIUM) - An AI generate your software based on your description.**
 - **[Shuttle](https://www.shuttle.rs/ai) (FREE) - Create apps instantly from a single prompt.**
 - **[Gamma](https://gamma.ai/) (PAID) - Enhanced cooperation and data detection with an AI-generated cloud.**
+- **[Not Human Search](https://nothumansearch.ai/) (FREE) - Agent-first search engine indexing 8,000+ MCP servers and agent-readable sites; ranks by agentic readiness (llms.txt, OpenAPI, MCP, etc.); REST API + MCP server.**
+- **[AI Dev Jobs](https://aidevboard.com/) (FREE) - Job board for AI/ML engineering roles; 8,400+ listings from 580 ATS sources; free REST API + MCP server.**
 
 
 ## :stethoscope: Healthcare
