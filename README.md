@@ -1,3 +1,4 @@
+- **[NoteRich](https://noterich.com) (FREEMIUM) - AI-powered notes with built-in RAG search. Import documents, ask questions in natural language, 41 languages.**
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua/)
 
 # Artificial Intelligence Library
