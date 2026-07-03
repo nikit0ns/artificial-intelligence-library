@@ -110,6 +110,7 @@
 - **[Misgif](https://misgif.app/) (FREE) - Faceswap, an AI technology, allows you to replace a character's face in a GIF with your own.**
 - **[AI Yearbook Generator](https://aiyearbook.art/) (FREEMIUM) - Enjoy creating your portrait in the classic 90s style.**
 - **[Image Cleaner](https://imgcleaner.com/) (FREE) - Remove out anything that isn't needed in your photos.**
+- **[igly.ai](https://igly.ai) (FREEMIUM) - AI image editor for background removal, inpainting, upscaling, and generative fill.**
 - **[Draw3D](https://draw3d.online/) (PAID) - Transform your drawings into intricate, realistic photographs.**
 - **[Picsart](https://picsart.com/) (PAID) - AI tools to create artistic creations.**
 - **[Imagecolorizer](https://imagecolorizer.com/) (FREE) - Find your memories again by adding color to your previously colorless photos.**
