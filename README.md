@@ -141,6 +141,7 @@
 - **[Flickify](https://www.flickify.com/) (FREEMIUM) - Convert your written materials, webpages, and articles into beautiful videos.**
 - **[AI Studios](https://www.deepbrain.io/aistudios) (PAID) - Generate realistic-looking video avatars that can comprehend your text.**
 - **[Yepic Studio](https://www.yepic.ai/studio) (PAID) - Transform your writing into a professional video.**
+- **[videos.social](https://videos.social/?utm_source=nikit0ns-ai-library&utm_medium=directory&utm_campaign=listing-wave-d) (FREEMIUM) - Turn blogs, PDFs, and prompts into editable faceless videos. Start free — 1 render included.**
 
 
 ## :mega: Audio Editing
