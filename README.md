@@ -304,6 +304,7 @@
 
 
 ## :hammer_and_wrench: Developer Tools
+- **[Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril)** - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops
 - **[Mintlify](https://mintlify.com/) (FREEMIUM) - Automatic generation documentation for your projects.**
 - **[Teachable Machine](https://teachablemachine.withgoogle.com/) (FREE) - Explore and create new AI without having to write any code.**
 - **[PromptLayer](https://promptlayer.com/) (FREE) - Analyze and arrange your OpenAI GPT prompts.**
