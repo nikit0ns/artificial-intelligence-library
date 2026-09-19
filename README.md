@@ -333,6 +333,7 @@
 - **[Hippocratic AI](https://hippocratic-medical-questions.herokuapp.com/) (FREE) - A medical knowledge research tool that stores data in StatPearls.**
 - **[Ask Poppy](https://www.poppylist.com/askpoppy) (FREEMIUM) - Poppy can support you during your pregnancy and in your day-to-day activities.**
 - **[Glass Health AI](https://glass.health/ai) (FREE) - An AI that uses symptoms to assist medical personnel in diagnosing patients.**
+- **[Yuan Doctor](https://www.yuandoctor.com/en/tools/nihss) (FREE) - Bedside clinical calculators and pathways for licensed clinicians (NIHSS, sepsis, stroke, PE); local browser, no patient-data upload. Agent skill: [/for-ai/SKILL.md](https://www.yuandoctor.com/for-ai/SKILL.md).**
 - **[Medical Chat](https://medical.chat-data.com/) (FREE) - An AI chatbot to assist medical in receiving responses to  medical queries.**
 - **[Hoku](https://www.heyhoku.com/) (FREEMIUM) - An AI health assistant that offers health advice, including diet and exercise regimens.**
 - **[SymptomChecker IO](https://symptomchecker.io/) (FREE) - Find a diagnosis online based on your symptoms.**
