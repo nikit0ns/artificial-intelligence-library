@@ -95,26 +95,27 @@
 
 
 ## :camera_flash: Image Editing
-- **[Pixelhunter](https://pixelhunter.io/) (FREE) - Allow an AI to crop your photos like a designer.**
-- **[Vectorizer AI](https://vectorizer.ai/) (FREE) - Convert your PNG or JPEG photos to SVG vectors quickly and automatically.**
-- **[Clipdrop](https://clipdrop.co/) (FREEMIUM) - A toolkit of choice for quickly producing visually captivating art.**
-- **[Remove BG](https://www.remove.bg/) (FREE) - Remove away of an image's backdrop for free.**
-- **[Inpainting Nvidia](https://www.nvidia.com/research/inpainting/index.html) (FREE) - Using an AI-powered retouching brush, edit your photos.**
-- **[Vectorizer IO](https://www.vectorizer.io/) (PAID) - An AI capable of creating vector graphics from your images.**
-- **[MemeCam AI](https://memecam.ai/) (FREE) - An AI generates personalized memes from a selected photo.**
-- **[Nostalgia Photo](https://www.nostalgia.photo/) (PAID) - An AI  may drastically improve the quality of your photo watches.**
-- **[Backgrounds Blur](https://magicstudio.com/backgroundblur/) (FREE) - Upload a picture and the AI will blur your backdrop.**
-- **[Designify](https://www.designify.com/) (FREE) - A strong image editor that makes creating professional graphics simple.**
 - **[AI Product Photos](https://creatorkit.com/) (PAID) - Create and edit images for your e-commerce products.**
-- **[Vector to 3D](https://www.meimu.design/vector-to-3d/) (FREEMIUM) - A program that generates 3D effects based on a vector image.**
-- **[Misgif](https://misgif.app/) (FREE) - Faceswap, an AI technology, allows you to replace a character's face in a GIF with your own.**
 - **[AI Yearbook Generator](https://aiyearbook.art/) (FREEMIUM) - Enjoy creating your portrait in the classic 90s style.**
-- **[Image Cleaner](https://imgcleaner.com/) (FREE) - Remove out anything that isn't needed in your photos.**
+- **[AI 만화 번역기](https://www.mangatranslate.com/ko/ai-manga-translator/) (FREEMIUM) - AI 만화 번역기는 Ficory LLC의 기업급 만화 리더로, 이미지 속 대사를 번역합니다. 개인 사용자는 여러 만화 페이지를 일괄 처리하고 맞춤 번역을 설정합니다. 스튜디오 사용자는 완전한 온라인 Photoshop 스타일 편집기로 번역된 텍스트와 페이지를 편집합니다. 사용자는 API를 자신의 작업 흐름에 연결합니다. 제품은 지원하는 모든 번역 언어를 제공하며, 제한된 무료 이용과 유료 요금제를 운영합니다.**
+- **[Backgrounds Blur](https://magicstudio.com/backgroundblur/) (FREE) - Upload a picture and the AI will blur your backdrop.**
+- **[Clipdrop](https://clipdrop.co/) (FREEMIUM) - A toolkit of choice for quickly producing visually captivating art.**
+- **[Designify](https://www.designify.com/) (FREE) - A strong image editor that makes creating professional graphics simple.**
 - **[Draw3D](https://draw3d.online/) (PAID) - Transform your drawings into intricate, realistic photographs.**
-- **[Picsart](https://picsart.com/) (PAID) - AI tools to create artistic creations.**
-- **[Imagecolorizer](https://imagecolorizer.com/) (FREE) - Find your memories again by adding color to your previously colorless photos.**
 - **[GetBetterPics](https://www.getbetterpics.com/) (PAID) - Creates high-quality images quickly and in a variety of styles for social media.**
+- **[Image Cleaner](https://imgcleaner.com/) (FREE) - Remove out anything that isn't needed in your photos.**
+- **[Imagecolorizer](https://imagecolorizer.com/) (FREE) - Find your memories again by adding color to your previously colorless photos.**
+- **[Inpainting Nvidia](https://www.nvidia.com/research/inpainting/index.html) (FREE) - Using an AI-powered retouching brush, edit your photos.**
+- **[MemeCam AI](https://memecam.ai/) (FREE) - An AI generates personalized memes from a selected photo.**
+- **[Misgif](https://misgif.app/) (FREE) - Faceswap, an AI technology, allows you to replace a character's face in a GIF with your own.**
+- **[Nostalgia Photo](https://www.nostalgia.photo/) (PAID) - An AI  may drastically improve the quality of your photo watches.**
+- **[Picsart](https://picsart.com/) (PAID) - AI tools to create artistic creations.**
+- **[Pixelhunter](https://pixelhunter.io/) (FREE) - Allow an AI to crop your photos like a designer.**
 - **[Recraft](https://www.recraft.ai/) (FREE) - An AI is simple to generate and edit vector graphics, icons, and 3D representations.**
+- **[Remove BG](https://www.remove.bg/) (FREE) - Remove away of an image's backdrop for free.**
+- **[Vector to 3D](https://www.meimu.design/vector-to-3d/) (FREEMIUM) - A program that generates 3D effects based on a vector image.**
+- **[Vectorizer AI](https://vectorizer.ai/) (FREE) - Convert your PNG or JPEG photos to SVG vectors quickly and automatically.**
+- **[Vectorizer IO](https://www.vectorizer.io/) (PAID) - An AI capable of creating vector graphics from your images.**
 - **[VectorMind AI](https://www.vectormind.io/) (FREEMIUM) - Generate high quality vector graphics in seconds with AI.**
 
 
