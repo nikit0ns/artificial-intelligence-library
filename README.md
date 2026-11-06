@@ -288,6 +288,7 @@
 - **[WolframAlpha](https://www.wolframalpha.com/) (FREEMIUM) - Calculate or ask this amazing AI, a science expert, anything you want.**
 - **[Education CoPilot](https://educationcopilot.com/) (FREEMIUM) - Generate your courses and schedules automatically.**
 - **[Otter AI](https://otter.ai/) (FREE) - Transcribes speech dialogue into text.**
+- **[OneMira C1](https://onemira.com/products/c1) (NO SUBSCRIPTION) - Standalone AI voice recorder with Local AI summaries, automatic Speaker ID, Zero Cloud privacy ($0/mo), and open [MCP server](https://github.com/onemira-space/onemira-mcp).**
 - **[Rize IO](https://rize.io/) (FREE) - Allows you to focus and manage your time more effectively.**
 - **[CheckForAI](https://checkforai.com/) (FREE) - Identifies content of AI in your text by examining its content.**
 - **[Doctrina AI](https://www.doctrina.ai/) (FREE) - Support for students and children learning remotely.**
