@@ -281,6 +281,7 @@
 
 
 ## :books: Education
+- **[AshuTeacher](https://ashuteacher.vercel.app) (FREEMIUM) - Interactive AI Voice Blackboard, 195-country syllabus academy, exam paper solver, and Thesis Research Studio with live AI Viva Defense in 100+ languages.**
 - **[Tome AI](https://beta.tome.app/) (FREE) - Assistance with the creation of a presentation.**
 - **[FireFlies](https://fireflies.ai/) (FREEMIUM) - Automate the notes from your meetings.**
 - **[Humata AI](https://www.humata.ai/) (FREE) - A multi-purpose AI with a focus on PDF documents.**
